@@ -1,0 +1,4720 @@
+[
+  {
+    "id": "coach-001",
+    "name": "Agnieszka Paczkowska",
+    "headline": "WIAL directory coach",
+    "company": null,
+    "locationText": "Poland",
+    "countrySlug": "poland",
+    "countryName": "Poland",
+    "citySlug": null,
+    "cityName": null,
+    "chapterSlug": "poland",
+    "chapterName": "WIAL Poland",
+    "region": "Europe",
+    "profileUrl": "https://directory.wial.org/poland/coaches/agnieszka-paczkowska",
+    "externalUrl": "https://directory.wial.org/poland/coaches/agnieszka-paczkowska",
+    "phone": null,
+    "email": null,
+    "website": null,
+    "about": "Public coach record imported from the WIAL directory export for Poland. Detailed biography and certification level need verification from source systems.",
+    "languages": [
+      "Polish",
+      "English"
+    ],
+    "languageCodes": [
+      "pl",
+      "en"
+    ],
+    "certificationLevel": null,
+    "certificationLabel": "Verification needed",
+    "approvalStatus": "APPROVED",
+    "sourceType": "csv-import",
+    "searchKeywords": [
+      "Poland",
+      "WIAL Poland",
+      "Europe",
+      "Polish",
+      "English"
+    ],
+    "searchDocument": "Agnieszka Paczkowska WIAL directory coach Public coach record imported from the WIAL directory export for Poland. Detailed biography and certification level need verification from source systems. Poland WIAL Poland Polish English Europe",
+    "dataCompleteness": 0.5,
+    "sourceGapFlags": [
+      "missing_bio",
+      "missing_phone",
+      "missing_email",
+      "missing_certification_sync",
+      "missing_verified_specializations"
+    ]
+  },
+  {
+    "id": "coach-002",
+    "name": "Agnieszka Sybicka",
+    "headline": "WIAL directory coach",
+    "company": null,
+    "locationText": "GdańSk, United States",
+    "countrySlug": "united-states",
+    "countryName": "United States",
+    "citySlug": "gdańsk",
+    "cityName": "GdańSk",
+    "chapterSlug": "united-states",
+    "chapterName": "WIAL USA",
+    "region": "North America",
+    "profileUrl": "https://directory.wial.org/united-states/gdańsk/coaches/agnieszka-sybicka",
+    "externalUrl": "https://directory.wial.org/united-states/gdańsk/coaches/agnieszka-sybicka",
+    "phone": null,
+    "email": null,
+    "website": null,
+    "about": "Public coach record imported from the WIAL directory export for United States. Detailed biography and certification level need verification from source systems.",
+    "languages": [
+      "English"
+    ],
+    "languageCodes": [
+      "en"
+    ],
+    "certificationLevel": null,
+    "certificationLabel": "Verification needed",
+    "approvalStatus": "APPROVED",
+    "sourceType": "csv-import",
+    "searchKeywords": [
+      "United States",
+      "WIAL USA",
+      "North America",
+      "English",
+      "GdańSk"
+    ],
+    "searchDocument": "Agnieszka Sybicka WIAL directory coach Public coach record imported from the WIAL directory export for United States. Detailed biography and certification level need verification from source systems. United States GdańSk WIAL USA English North America",
+    "dataCompleteness": 0.5,
+    "sourceGapFlags": [
+      "missing_bio",
+      "missing_phone",
+      "missing_email",
+      "missing_certification_sync",
+      "missing_verified_specializations"
+    ]
+  },
+  {
+    "id": "coach-003",
+    "name": "Aik Gerrese",
+    "headline": "WIAL directory coach",
+    "company": null,
+    "locationText": "Nieuwegein, Netherlands",
+    "countrySlug": "netherlands",
+    "countryName": "Netherlands",
+    "citySlug": "nieuwegein",
+    "cityName": "Nieuwegein",
+    "chapterSlug": "netherlands",
+    "chapterName": "WIAL Netherlands",
+    "region": "Europe",
+    "profileUrl": "https://directory.wial.org/netherlands/nieuwegein/coaches/aik-gerrese",
+    "externalUrl": "https://directory.wial.org/netherlands/nieuwegein/coaches/aik-gerrese",
+    "phone": "+31655322229",
+    "email": null,
+    "website": null,
+    "about": "Public coach record imported from the WIAL directory export for Netherlands. Detailed biography and certification level need verification from source systems.",
+    "languages": [
+      "Dutch",
+      "English"
+    ],
+    "languageCodes": [
+      "nl",
+      "en"
+    ],
+    "certificationLevel": null,
+    "certificationLabel": "Verification needed",
+    "approvalStatus": "APPROVED",
+    "sourceType": "csv-import",
+    "searchKeywords": [
+      "Netherlands",
+      "WIAL Netherlands",
+      "Europe",
+      "Dutch",
+      "English",
+      "Nieuwegein"
+    ],
+    "searchDocument": "Aik Gerrese WIAL directory coach Public coach record imported from the WIAL directory export for Netherlands. Detailed biography and certification level need verification from source systems. Netherlands Nieuwegein WIAL Netherlands Dutch English Europe",
+    "dataCompleteness": 0.6,
+    "sourceGapFlags": [
+      "missing_bio",
+      "missing_email",
+      "missing_certification_sync",
+      "missing_verified_specializations"
+    ]
+  },
+  {
+    "id": "coach-004",
+    "name": "Akawat Sirisuk",
+    "headline": "WIAL directory coach",
+    "company": null,
+    "locationText": "Thailand",
+    "countrySlug": "thailand",
+    "countryName": "Thailand",
+    "citySlug": null,
+    "cityName": null,
+    "chapterSlug": "thailand",
+    "chapterName": "WIAL Thailand",
+    "region": "Asia-Pacific",
+    "profileUrl": "https://directory.wial.org/thailand/coaches/akawat-sirisuk",
+    "externalUrl": "https://directory.wial.org/thailand/coaches/akawat-sirisuk",
+    "phone": null,
+    "email": null,
+    "website": null,
+    "about": "Public coach record imported from the WIAL directory export for Thailand. Detailed biography and certification level need verification from source systems.",
+    "languages": [
+      "Thai",
+      "English"
+    ],
+    "languageCodes": [
+      "th",
+      "en"
+    ],
+    "certificationLevel": null,
+    "certificationLabel": "Verification needed",
+    "approvalStatus": "APPROVED",
+    "sourceType": "csv-import",
+    "searchKeywords": [
+      "Thailand",
+      "WIAL Thailand",
+      "Asia-Pacific",
+      "Thai",
+      "English"
+    ],
+    "searchDocument": "Akawat Sirisuk WIAL directory coach Public coach record imported from the WIAL directory export for Thailand. Detailed biography and certification level need verification from source systems. Thailand WIAL Thailand Thai English Asia-Pacific",
+    "dataCompleteness": 0.5,
+    "sourceGapFlags": [
+      "missing_bio",
+      "missing_phone",
+      "missing_email",
+      "missing_certification_sync",
+      "missing_verified_specializations"
+    ]
+  },
+  {
+    "id": "coach-005",
+    "name": "Alex Wong",
+    "headline": "WIAL directory coach",
+    "company": null,
+    "locationText": "Singapore, Singapore",
+    "countrySlug": "singapore",
+    "countryName": "Singapore",
+    "citySlug": "singapore",
+    "cityName": "Singapore",
+    "chapterSlug": "singapore",
+    "chapterName": "WIAL Singapore",
+    "region": "Asia-Pacific",
+    "profileUrl": "https://directory.wial.org/singapore/singapore/coaches/alex-wong",
+    "externalUrl": "https://directory.wial.org/singapore/singapore/coaches/alex-wong",
+    "phone": null,
+    "email": null,
+    "website": null,
+    "about": "Public coach record imported from the WIAL directory export for Singapore. Detailed biography and certification level need verification from source systems.",
+    "languages": [
+      "English",
+      "Mandarin"
+    ],
+    "languageCodes": [
+      "en",
+      "zh"
+    ],
+    "certificationLevel": null,
+    "certificationLabel": "Verification needed",
+    "approvalStatus": "APPROVED",
+    "sourceType": "csv-import",
+    "searchKeywords": [
+      "Singapore",
+      "WIAL Singapore",
+      "Asia-Pacific",
+      "English",
+      "Mandarin",
+      "Singapore"
+    ],
+    "searchDocument": "Alex Wong WIAL directory coach Public coach record imported from the WIAL directory export for Singapore. Detailed biography and certification level need verification from source systems. Singapore Singapore WIAL Singapore English Mandarin Asia-Pacific",
+    "dataCompleteness": 0.5,
+    "sourceGapFlags": [
+      "missing_bio",
+      "missing_phone",
+      "missing_email",
+      "missing_certification_sync",
+      "missing_verified_specializations"
+    ]
+  },
+  {
+    "id": "coach-006",
+    "name": "Alice LIU",
+    "headline": "WIAL directory coach",
+    "company": null,
+    "locationText": "Unknown, Canada",
+    "countrySlug": "canada",
+    "countryName": "Canada",
+    "citySlug": "unknown",
+    "cityName": "Unknown",
+    "chapterSlug": "canada",
+    "chapterName": "WIAL Canada",
+    "region": "North America",
+    "profileUrl": "https://directory.wial.org/canada/台北市/coaches/alice-liu",
+    "externalUrl": "https://directory.wial.org/canada/台北市/coaches/alice-liu",
+    "phone": "+886932035460",
+    "email": null,
+    "website": null,
+    "about": "Public coach record imported from the WIAL directory export for Canada. Detailed biography and certification level need verification from source systems.",
+    "languages": [
+      "English",
+      "French"
+    ],
+    "languageCodes": [
+      "en",
+      "fr"
+    ],
+    "certificationLevel": null,
+    "certificationLabel": "Verification needed",
+    "approvalStatus": "APPROVED",
+    "sourceType": "csv-import",
+    "searchKeywords": [
+      "Canada",
+      "WIAL Canada",
+      "North America",
+      "English",
+      "French",
+      "Unknown"
+    ],
+    "searchDocument": "Alice LIU WIAL directory coach Public coach record imported from the WIAL directory export for Canada. Detailed biography and certification level need verification from source systems. Canada Unknown WIAL Canada English French North America",
+    "dataCompleteness": 0.6,
+    "sourceGapFlags": [
+      "missing_bio",
+      "missing_email",
+      "missing_certification_sync",
+      "missing_verified_specializations"
+    ]
+  },
+  {
+    "id": "coach-007",
+    "name": "Alicja Pawlaczuk",
+    "headline": "WIAL directory coach",
+    "company": null,
+    "locationText": "Bangkok, Poland",
+    "countrySlug": "poland",
+    "countryName": "Poland",
+    "citySlug": "bangkok",
+    "cityName": "Bangkok",
+    "chapterSlug": "poland",
+    "chapterName": "WIAL Poland",
+    "region": "Europe",
+    "profileUrl": "https://directory.wial.org/poland/bangkok/coaches/alicja-pawlaczuk",
+    "externalUrl": "https://directory.wial.org/poland/bangkok/coaches/alicja-pawlaczuk",
+    "phone": "+6617793704",
+    "email": null,
+    "website": null,
+    "about": "Public coach record imported from the WIAL directory export for Poland. Detailed biography and certification level need verification from source systems.",
+    "languages": [
+      "Polish",
+      "English"
+    ],
+    "languageCodes": [
+      "pl",
+      "en"
+    ],
+    "certificationLevel": null,
+    "certificationLabel": "Verification needed",
+    "approvalStatus": "APPROVED",
+    "sourceType": "csv-import",
+    "searchKeywords": [
+      "Poland",
+      "WIAL Poland",
+      "Europe",
+      "Polish",
+      "English",
+      "Bangkok"
+    ],
+    "searchDocument": "Alicja Pawlaczuk WIAL directory coach Public coach record imported from the WIAL directory export for Poland. Detailed biography and certification level need verification from source systems. Poland Bangkok WIAL Poland Polish English Europe",
+    "dataCompleteness": 0.6,
+    "sourceGapFlags": [
+      "missing_bio",
+      "missing_email",
+      "missing_certification_sync",
+      "missing_verified_specializations"
+    ]
+  },
+  {
+    "id": "coach-008",
+    "name": "Amar Patel",
+    "headline": "WIAL directory coach",
+    "company": null,
+    "locationText": "Hong Kong, Hong Kong",
+    "countrySlug": "hong-kong",
+    "countryName": "Hong Kong",
+    "citySlug": "hong-kong",
+    "cityName": "Hong Kong",
+    "chapterSlug": "hong-kong",
+    "chapterName": "WIAL Hong Kong",
+    "region": "Asia-Pacific",
+    "profileUrl": "https://directory.wial.org/hong-kong/hong-kong/coaches/amar-patel",
+    "externalUrl": "https://directory.wial.org/hong-kong/hong-kong/coaches/amar-patel",
+    "phone": null,
+    "email": null,
+    "website": null,
+    "about": "Public coach record imported from the WIAL directory export for Hong Kong. Detailed biography and certification level need verification from source systems.",
+    "languages": [
+      "Cantonese",
+      "English"
+    ],
+    "languageCodes": [
+      "yue",
+      "en"
+    ],
+    "certificationLevel": null,
+    "certificationLabel": "Verification needed",
+    "approvalStatus": "APPROVED",
+    "sourceType": "csv-import",
+    "searchKeywords": [
+      "Hong Kong",
+      "WIAL Hong Kong",
+      "Asia-Pacific",
+      "Cantonese",
+      "English",
+      "Hong Kong"
+    ],
+    "searchDocument": "Amar Patel WIAL directory coach Public coach record imported from the WIAL directory export for Hong Kong. Detailed biography and certification level need verification from source systems. Hong Kong Hong Kong WIAL Hong Kong Cantonese English Asia-Pacific",
+    "dataCompleteness": 0.5,
+    "sourceGapFlags": [
+      "missing_bio",
+      "missing_phone",
+      "missing_email",
+      "missing_certification_sync",
+      "missing_verified_specializations"
+    ]
+  },
+  {
+    "id": "coach-009",
+    "name": "Amy Moore",
+    "headline": "WIAL directory coach",
+    "company": null,
+    "locationText": "Sandton, South Africa",
+    "countrySlug": "south-africa",
+    "countryName": "South Africa",
+    "citySlug": "sandton",
+    "cityName": "Sandton",
+    "chapterSlug": "south-africa",
+    "chapterName": "WIAL South Africa",
+    "region": "Africa",
+    "profileUrl": "https://directory.wial.org/south-africa/sandton/coaches/amy-moore",
+    "externalUrl": "https://directory.wial.org/south-africa/sandton/coaches/amy-moore",
+    "phone": "+27833269655",
+    "email": null,
+    "website": null,
+    "about": "Public coach record imported from the WIAL directory export for South Africa. Detailed biography and certification level need verification from source systems.",
+    "languages": [
+      "English"
+    ],
+    "languageCodes": [
+      "en"
+    ],
+    "certificationLevel": null,
+    "certificationLabel": "Verification needed",
+    "approvalStatus": "APPROVED",
+    "sourceType": "csv-import",
+    "searchKeywords": [
+      "South Africa",
+      "WIAL South Africa",
+      "Africa",
+      "English",
+      "Sandton"
+    ],
+    "searchDocument": "Amy Moore WIAL directory coach Public coach record imported from the WIAL directory export for South Africa. Detailed biography and certification level need verification from source systems. South Africa Sandton WIAL South Africa English Africa",
+    "dataCompleteness": 0.6,
+    "sourceGapFlags": [
+      "missing_bio",
+      "missing_email",
+      "missing_certification_sync",
+      "missing_verified_specializations"
+    ]
+  },
+  {
+    "id": "coach-010",
+    "name": "Ana Botelho Maia Goncalves",
+    "headline": "WIAL directory coach",
+    "company": null,
+    "locationText": "Malaysia",
+    "countrySlug": "malaysia",
+    "countryName": "Malaysia",
+    "citySlug": null,
+    "cityName": null,
+    "chapterSlug": "malaysia",
+    "chapterName": "WIAL Malaysia",
+    "region": "Asia-Pacific",
+    "profileUrl": "https://directory.wial.org/malaysia/coaches/ana-botelho-maia-goncalves",
+    "externalUrl": "https://directory.wial.org/malaysia/coaches/ana-botelho-maia-goncalves",
+    "phone": null,
+    "email": null,
+    "website": null,
+    "about": "Public coach record imported from the WIAL directory export for Malaysia. Detailed biography and certification level need verification from source systems.",
+    "languages": [
+      "Malay",
+      "English"
+    ],
+    "languageCodes": [
+      "ms",
+      "en"
+    ],
+    "certificationLevel": null,
+    "certificationLabel": "Verification needed",
+    "approvalStatus": "APPROVED",
+    "sourceType": "csv-import",
+    "searchKeywords": [
+      "Malaysia",
+      "WIAL Malaysia",
+      "Asia-Pacific",
+      "Malay",
+      "English"
+    ],
+    "searchDocument": "Ana Botelho Maia Goncalves WIAL directory coach Public coach record imported from the WIAL directory export for Malaysia. Detailed biography and certification level need verification from source systems. Malaysia WIAL Malaysia Malay English Asia-Pacific",
+    "dataCompleteness": 0.5,
+    "sourceGapFlags": [
+      "missing_bio",
+      "missing_phone",
+      "missing_email",
+      "missing_certification_sync",
+      "missing_verified_specializations"
+    ]
+  },
+  {
+    "id": "coach-011",
+    "name": "Anaïs Deschamps",
+    "headline": "WIAL directory coach",
+    "company": null,
+    "locationText": "Malaysia",
+    "countrySlug": "malaysia",
+    "countryName": "Malaysia",
+    "citySlug": null,
+    "cityName": null,
+    "chapterSlug": "malaysia",
+    "chapterName": "WIAL Malaysia",
+    "region": "Asia-Pacific",
+    "profileUrl": "https://directory.wial.org/malaysia/coaches/anaïs-deschamps",
+    "externalUrl": "https://directory.wial.org/malaysia/coaches/anaïs-deschamps",
+    "phone": null,
+    "email": null,
+    "website": null,
+    "about": "Public coach record imported from the WIAL directory export for Malaysia. Detailed biography and certification level need verification from source systems.",
+    "languages": [
+      "Malay",
+      "English"
+    ],
+    "languageCodes": [
+      "ms",
+      "en"
+    ],
+    "certificationLevel": null,
+    "certificationLabel": "Verification needed",
+    "approvalStatus": "APPROVED",
+    "sourceType": "csv-import",
+    "searchKeywords": [
+      "Malaysia",
+      "WIAL Malaysia",
+      "Asia-Pacific",
+      "Malay",
+      "English"
+    ],
+    "searchDocument": "Anaïs Deschamps WIAL directory coach Public coach record imported from the WIAL directory export for Malaysia. Detailed biography and certification level need verification from source systems. Malaysia WIAL Malaysia Malay English Asia-Pacific",
+    "dataCompleteness": 0.5,
+    "sourceGapFlags": [
+      "missing_bio",
+      "missing_phone",
+      "missing_email",
+      "missing_certification_sync",
+      "missing_verified_specializations"
+    ]
+  },
+  {
+    "id": "coach-012",
+    "name": "Andrea Chow",
+    "headline": "WIAL directory coach",
+    "company": null,
+    "locationText": "Malaysia",
+    "countrySlug": "malaysia",
+    "countryName": "Malaysia",
+    "citySlug": null,
+    "cityName": null,
+    "chapterSlug": "malaysia",
+    "chapterName": "WIAL Malaysia",
+    "region": "Asia-Pacific",
+    "profileUrl": "https://directory.wial.org/malaysia/coaches/andrea-chow",
+    "externalUrl": "https://directory.wial.org/malaysia/coaches/andrea-chow",
+    "phone": null,
+    "email": null,
+    "website": null,
+    "about": "Public coach record imported from the WIAL directory export for Malaysia. Detailed biography and certification level need verification from source systems.",
+    "languages": [
+      "Malay",
+      "English"
+    ],
+    "languageCodes": [
+      "ms",
+      "en"
+    ],
+    "certificationLevel": null,
+    "certificationLabel": "Verification needed",
+    "approvalStatus": "APPROVED",
+    "sourceType": "csv-import",
+    "searchKeywords": [
+      "Malaysia",
+      "WIAL Malaysia",
+      "Asia-Pacific",
+      "Malay",
+      "English"
+    ],
+    "searchDocument": "Andrea Chow WIAL directory coach Public coach record imported from the WIAL directory export for Malaysia. Detailed biography and certification level need verification from source systems. Malaysia WIAL Malaysia Malay English Asia-Pacific",
+    "dataCompleteness": 0.5,
+    "sourceGapFlags": [
+      "missing_bio",
+      "missing_phone",
+      "missing_email",
+      "missing_certification_sync",
+      "missing_verified_specializations"
+    ]
+  },
+  {
+    "id": "coach-013",
+    "name": "Andréa Nery",
+    "headline": "WIAL directory coach",
+    "company": null,
+    "locationText": "SãO Paulo, Brazil",
+    "countrySlug": "brazil",
+    "countryName": "Brazil",
+    "citySlug": "são-paulo",
+    "cityName": "SãO Paulo",
+    "chapterSlug": "brazil",
+    "chapterName": "WIAL Brazil",
+    "region": "South America",
+    "profileUrl": "https://directory.wial.org/brazil/são-paulo/coaches/andréa-nery",
+    "externalUrl": "https://directory.wial.org/brazil/são-paulo/coaches/andréa-nery",
+    "phone": "04735-005",
+    "email": null,
+    "website": null,
+    "about": "Public coach record imported from the WIAL directory export for Brazil. Detailed biography and certification level need verification from source systems.",
+    "languages": [
+      "Portuguese"
+    ],
+    "languageCodes": [
+      "pt"
+    ],
+    "certificationLevel": null,
+    "certificationLabel": "Verification needed",
+    "approvalStatus": "APPROVED",
+    "sourceType": "csv-import",
+    "searchKeywords": [
+      "Brazil",
+      "WIAL Brazil",
+      "South America",
+      "Portuguese",
+      "SãO Paulo"
+    ],
+    "searchDocument": "Andréa Nery WIAL directory coach Public coach record imported from the WIAL directory export for Brazil. Detailed biography and certification level need verification from source systems. Brazil SãO Paulo WIAL Brazil Portuguese South America",
+    "dataCompleteness": 0.6,
+    "sourceGapFlags": [
+      "missing_bio",
+      "missing_email",
+      "missing_certification_sync",
+      "missing_verified_specializations"
+    ]
+  },
+  {
+    "id": "coach-014",
+    "name": "Andrea Y. See",
+    "headline": "WIAL directory coach",
+    "company": null,
+    "locationText": "Philippines",
+    "countrySlug": "philippines",
+    "countryName": "Philippines",
+    "citySlug": null,
+    "cityName": null,
+    "chapterSlug": "philippines",
+    "chapterName": "WIAL Philippines",
+    "region": "Asia-Pacific",
+    "profileUrl": "https://directory.wial.org/philippines/coaches/andrea-y-see",
+    "externalUrl": "https://directory.wial.org/philippines/coaches/andrea-y-see",
+    "phone": null,
+    "email": null,
+    "website": null,
+    "about": "Public coach record imported from the WIAL directory export for Philippines. Detailed biography and certification level need verification from source systems.",
+    "languages": [
+      "Filipino",
+      "English"
+    ],
+    "languageCodes": [
+      "fil",
+      "en"
+    ],
+    "certificationLevel": null,
+    "certificationLabel": "Verification needed",
+    "approvalStatus": "APPROVED",
+    "sourceType": "csv-import",
+    "searchKeywords": [
+      "Philippines",
+      "WIAL Philippines",
+      "Asia-Pacific",
+      "Filipino",
+      "English"
+    ],
+    "searchDocument": "Andrea Y. See WIAL directory coach Public coach record imported from the WIAL directory export for Philippines. Detailed biography and certification level need verification from source systems. Philippines WIAL Philippines Filipino English Asia-Pacific",
+    "dataCompleteness": 0.5,
+    "sourceGapFlags": [
+      "missing_bio",
+      "missing_phone",
+      "missing_email",
+      "missing_certification_sync",
+      "missing_verified_specializations"
+    ]
+  },
+  {
+    "id": "coach-015",
+    "name": "Andrew Rahaman",
+    "headline": "WIAL directory coach",
+    "company": null,
+    "locationText": "Arlington Va, United States",
+    "countrySlug": "united-states",
+    "countryName": "United States",
+    "citySlug": "arlington-va",
+    "cityName": "Arlington Va",
+    "chapterSlug": "united-states",
+    "chapterName": "WIAL USA",
+    "region": "North America",
+    "profileUrl": "https://directory.wial.org/united-states/arlington-va/coaches/andrew-rahaman",
+    "externalUrl": "https://directory.wial.org/united-states/arlington-va/coaches/andrew-rahaman",
+    "phone": "22210-4895",
+    "email": null,
+    "website": null,
+    "about": "Public coach record imported from the WIAL directory export for United States. Detailed biography and certification level need verification from source systems.",
+    "languages": [
+      "English"
+    ],
+    "languageCodes": [
+      "en"
+    ],
+    "certificationLevel": null,
+    "certificationLabel": "Verification needed",
+    "approvalStatus": "APPROVED",
+    "sourceType": "csv-import",
+    "searchKeywords": [
+      "United States",
+      "WIAL USA",
+      "North America",
+      "English",
+      "Arlington Va"
+    ],
+    "searchDocument": "Andrew Rahaman WIAL directory coach Public coach record imported from the WIAL directory export for United States. Detailed biography and certification level need verification from source systems. United States Arlington Va WIAL USA English North America",
+    "dataCompleteness": 0.6,
+    "sourceGapFlags": [
+      "missing_bio",
+      "missing_email",
+      "missing_certification_sync",
+      "missing_verified_specializations"
+    ]
+  },
+  {
+    "id": "coach-016",
+    "name": "Aneta Komorowska",
+    "headline": "WIAL directory coach",
+    "company": null,
+    "locationText": "Poland",
+    "countrySlug": "poland",
+    "countryName": "Poland",
+    "citySlug": null,
+    "cityName": null,
+    "chapterSlug": "poland",
+    "chapterName": "WIAL Poland",
+    "region": "Europe",
+    "profileUrl": "https://directory.wial.org/poland/coaches/aneta-komorowska",
+    "externalUrl": "https://directory.wial.org/poland/coaches/aneta-komorowska",
+    "phone": null,
+    "email": null,
+    "website": null,
+    "about": "Public coach record imported from the WIAL directory export for Poland. Detailed biography and certification level need verification from source systems.",
+    "languages": [
+      "Polish",
+      "English"
+    ],
+    "languageCodes": [
+      "pl",
+      "en"
+    ],
+    "certificationLevel": null,
+    "certificationLabel": "Verification needed",
+    "approvalStatus": "APPROVED",
+    "sourceType": "csv-import",
+    "searchKeywords": [
+      "Poland",
+      "WIAL Poland",
+      "Europe",
+      "Polish",
+      "English"
+    ],
+    "searchDocument": "Aneta Komorowska WIAL directory coach Public coach record imported from the WIAL directory export for Poland. Detailed biography and certification level need verification from source systems. Poland WIAL Poland Polish English Europe",
+    "dataCompleteness": 0.5,
+    "sourceGapFlags": [
+      "missing_bio",
+      "missing_phone",
+      "missing_email",
+      "missing_certification_sync",
+      "missing_verified_specializations"
+    ]
+  },
+  {
+    "id": "coach-017",
+    "name": "Angela Jaquith",
+    "headline": "WIAL directory coach",
+    "company": null,
+    "locationText": "United States",
+    "countrySlug": "united-states",
+    "countryName": "United States",
+    "citySlug": null,
+    "cityName": null,
+    "chapterSlug": "united-states",
+    "chapterName": "WIAL USA",
+    "region": "North America",
+    "profileUrl": "https://directory.wial.org/united-states/coaches/angela-jaquith",
+    "externalUrl": "https://directory.wial.org/united-states/coaches/angela-jaquith",
+    "phone": null,
+    "email": null,
+    "website": null,
+    "about": "Public coach record imported from the WIAL directory export for United States. Detailed biography and certification level need verification from source systems.",
+    "languages": [
+      "English"
+    ],
+    "languageCodes": [
+      "en"
+    ],
+    "certificationLevel": null,
+    "certificationLabel": "Verification needed",
+    "approvalStatus": "APPROVED",
+    "sourceType": "csv-import",
+    "searchKeywords": [
+      "United States",
+      "WIAL USA",
+      "North America",
+      "English"
+    ],
+    "searchDocument": "Angela Jaquith WIAL directory coach Public coach record imported from the WIAL directory export for United States. Detailed biography and certification level need verification from source systems. United States WIAL USA English North America",
+    "dataCompleteness": 0.5,
+    "sourceGapFlags": [
+      "missing_bio",
+      "missing_phone",
+      "missing_email",
+      "missing_certification_sync",
+      "missing_verified_specializations"
+    ]
+  },
+  {
+    "id": "coach-018",
+    "name": "Angela Scurlock",
+    "headline": "WIAL directory coach",
+    "company": null,
+    "locationText": "Chardon, United Kingdom",
+    "countrySlug": "united-kingdom",
+    "countryName": "United Kingdom",
+    "citySlug": "chardon",
+    "cityName": "Chardon",
+    "chapterSlug": "united-kingdom",
+    "chapterName": "WIAL United Kingdom",
+    "region": "Europe",
+    "profileUrl": "https://directory.wial.org/united-kingdom/chardon/coaches/angela-scurlock",
+    "externalUrl": "https://directory.wial.org/united-kingdom/chardon/coaches/angela-scurlock",
+    "phone": "440-279-3260",
+    "email": null,
+    "website": null,
+    "about": "Public coach record imported from the WIAL directory export for United Kingdom. Detailed biography and certification level need verification from source systems.",
+    "languages": [
+      "English"
+    ],
+    "languageCodes": [
+      "en"
+    ],
+    "certificationLevel": null,
+    "certificationLabel": "Verification needed",
+    "approvalStatus": "APPROVED",
+    "sourceType": "csv-import",
+    "searchKeywords": [
+      "United Kingdom",
+      "WIAL United Kingdom",
+      "Europe",
+      "English",
+      "Chardon"
+    ],
+    "searchDocument": "Angela Scurlock WIAL directory coach Public coach record imported from the WIAL directory export for United Kingdom. Detailed biography and certification level need verification from source systems. United Kingdom Chardon WIAL United Kingdom English Europe",
+    "dataCompleteness": 0.6,
+    "sourceGapFlags": [
+      "missing_bio",
+      "missing_email",
+      "missing_certification_sync",
+      "missing_verified_specializations"
+    ]
+  },
+  {
+    "id": "coach-019",
+    "name": "Angelina Alicea",
+    "headline": "WIAL directory coach",
+    "company": null,
+    "locationText": "Bronx, United States",
+    "countrySlug": "united-states",
+    "countryName": "United States",
+    "citySlug": "bronx",
+    "cityName": "Bronx",
+    "chapterSlug": "united-states",
+    "chapterName": "WIAL USA",
+    "region": "North America",
+    "profileUrl": "https://directory.wial.org/united-states/bronx/coaches/angelina-alicea",
+    "externalUrl": "https://directory.wial.org/united-states/bronx/coaches/angelina-alicea",
+    "phone": "646-468-7405",
+    "email": null,
+    "website": null,
+    "about": "Public coach record imported from the WIAL directory export for United States. Detailed biography and certification level need verification from source systems.",
+    "languages": [
+      "English"
+    ],
+    "languageCodes": [
+      "en"
+    ],
+    "certificationLevel": null,
+    "certificationLabel": "Verification needed",
+    "approvalStatus": "APPROVED",
+    "sourceType": "csv-import",
+    "searchKeywords": [
+      "United States",
+      "WIAL USA",
+      "North America",
+      "English",
+      "Bronx"
+    ],
+    "searchDocument": "Angelina Alicea WIAL directory coach Public coach record imported from the WIAL directory export for United States. Detailed biography and certification level need verification from source systems. United States Bronx WIAL USA English North America",
+    "dataCompleteness": 0.6,
+    "sourceGapFlags": [
+      "missing_bio",
+      "missing_email",
+      "missing_certification_sync",
+      "missing_verified_specializations"
+    ]
+  },
+  {
+    "id": "coach-020",
+    "name": "Angeline Yong",
+    "headline": "WIAL directory coach",
+    "company": null,
+    "locationText": "Malaysia",
+    "countrySlug": "malaysia",
+    "countryName": "Malaysia",
+    "citySlug": null,
+    "cityName": null,
+    "chapterSlug": "malaysia",
+    "chapterName": "WIAL Malaysia",
+    "region": "Asia-Pacific",
+    "profileUrl": "https://directory.wial.org/malaysia/coaches/angeline-yong",
+    "externalUrl": "https://directory.wial.org/malaysia/coaches/angeline-yong",
+    "phone": "+60123050398",
+    "email": "angeline@first-joy.com",
+    "website": null,
+    "about": "Public coach record imported from the WIAL directory export for Malaysia. Detailed biography and certification level need verification from source systems.",
+    "languages": [
+      "Malay",
+      "English"
+    ],
+    "languageCodes": [
+      "ms",
+      "en"
+    ],
+    "certificationLevel": null,
+    "certificationLabel": "Verification needed",
+    "approvalStatus": "APPROVED",
+    "sourceType": "csv-import",
+    "searchKeywords": [
+      "Malaysia",
+      "WIAL Malaysia",
+      "Asia-Pacific",
+      "Malay",
+      "English"
+    ],
+    "searchDocument": "Angeline Yong WIAL directory coach Public coach record imported from the WIAL directory export for Malaysia. Detailed biography and certification level need verification from source systems. Malaysia WIAL Malaysia Malay English Asia-Pacific",
+    "dataCompleteness": 0.7,
+    "sourceGapFlags": [
+      "missing_bio",
+      "missing_certification_sync",
+      "missing_verified_specializations"
+    ]
+  },
+  {
+    "id": "coach-021",
+    "name": "Anna Kaczmarkiewicz",
+    "headline": "WIAL directory coach",
+    "company": null,
+    "locationText": "Poland",
+    "countrySlug": "poland",
+    "countryName": "Poland",
+    "citySlug": null,
+    "cityName": null,
+    "chapterSlug": "poland",
+    "chapterName": "WIAL Poland",
+    "region": "Europe",
+    "profileUrl": "https://directory.wial.org/poland/coaches/anna-kaczmarkiewicz",
+    "externalUrl": "https://directory.wial.org/poland/coaches/anna-kaczmarkiewicz",
+    "phone": null,
+    "email": null,
+    "website": null,
+    "about": "Public coach record imported from the WIAL directory export for Poland. Detailed biography and certification level need verification from source systems.",
+    "languages": [
+      "Polish",
+      "English"
+    ],
+    "languageCodes": [
+      "pl",
+      "en"
+    ],
+    "certificationLevel": null,
+    "certificationLabel": "Verification needed",
+    "approvalStatus": "APPROVED",
+    "sourceType": "csv-import",
+    "searchKeywords": [
+      "Poland",
+      "WIAL Poland",
+      "Europe",
+      "Polish",
+      "English"
+    ],
+    "searchDocument": "Anna Kaczmarkiewicz WIAL directory coach Public coach record imported from the WIAL directory export for Poland. Detailed biography and certification level need verification from source systems. Poland WIAL Poland Polish English Europe",
+    "dataCompleteness": 0.5,
+    "sourceGapFlags": [
+      "missing_bio",
+      "missing_phone",
+      "missing_email",
+      "missing_certification_sync",
+      "missing_verified_specializations"
+    ]
+  },
+  {
+    "id": "coach-022",
+    "name": "Anna Melzacka-Gruba",
+    "headline": "WIAL directory coach",
+    "company": null,
+    "locationText": "Poland",
+    "countrySlug": "poland",
+    "countryName": "Poland",
+    "citySlug": null,
+    "cityName": null,
+    "chapterSlug": "poland",
+    "chapterName": "WIAL Poland",
+    "region": "Europe",
+    "profileUrl": "https://directory.wial.org/poland/coaches/anna-melzacka-gruba",
+    "externalUrl": "https://directory.wial.org/poland/coaches/anna-melzacka-gruba",
+    "phone": null,
+    "email": null,
+    "website": null,
+    "about": "Public coach record imported from the WIAL directory export for Poland. Detailed biography and certification level need verification from source systems.",
+    "languages": [
+      "Polish",
+      "English"
+    ],
+    "languageCodes": [
+      "pl",
+      "en"
+    ],
+    "certificationLevel": null,
+    "certificationLabel": "Verification needed",
+    "approvalStatus": "APPROVED",
+    "sourceType": "csv-import",
+    "searchKeywords": [
+      "Poland",
+      "WIAL Poland",
+      "Europe",
+      "Polish",
+      "English"
+    ],
+    "searchDocument": "Anna Melzacka-Gruba WIAL directory coach Public coach record imported from the WIAL directory export for Poland. Detailed biography and certification level need verification from source systems. Poland WIAL Poland Polish English Europe",
+    "dataCompleteness": 0.5,
+    "sourceGapFlags": [
+      "missing_bio",
+      "missing_phone",
+      "missing_email",
+      "missing_certification_sync",
+      "missing_verified_specializations"
+    ]
+  },
+  {
+    "id": "coach-023",
+    "name": "Anna Rosolik",
+    "headline": "WIAL directory coach",
+    "company": null,
+    "locationText": "Poland",
+    "countrySlug": "poland",
+    "countryName": "Poland",
+    "citySlug": null,
+    "cityName": null,
+    "chapterSlug": "poland",
+    "chapterName": "WIAL Poland",
+    "region": "Europe",
+    "profileUrl": "https://directory.wial.org/poland/coaches/anna-rosolik",
+    "externalUrl": "https://directory.wial.org/poland/coaches/anna-rosolik",
+    "phone": null,
+    "email": null,
+    "website": null,
+    "about": "Public coach record imported from the WIAL directory export for Poland. Detailed biography and certification level need verification from source systems.",
+    "languages": [
+      "Polish",
+      "English"
+    ],
+    "languageCodes": [
+      "pl",
+      "en"
+    ],
+    "certificationLevel": null,
+    "certificationLabel": "Verification needed",
+    "approvalStatus": "APPROVED",
+    "sourceType": "csv-import",
+    "searchKeywords": [
+      "Poland",
+      "WIAL Poland",
+      "Europe",
+      "Polish",
+      "English"
+    ],
+    "searchDocument": "Anna Rosolik WIAL directory coach Public coach record imported from the WIAL directory export for Poland. Detailed biography and certification level need verification from source systems. Poland WIAL Poland Polish English Europe",
+    "dataCompleteness": 0.5,
+    "sourceGapFlags": [
+      "missing_bio",
+      "missing_phone",
+      "missing_email",
+      "missing_certification_sync",
+      "missing_verified_specializations"
+    ]
+  },
+  {
+    "id": "coach-024",
+    "name": "Anna Solak",
+    "headline": "WIAL directory coach",
+    "company": null,
+    "locationText": "Poland",
+    "countrySlug": "poland",
+    "countryName": "Poland",
+    "citySlug": null,
+    "cityName": null,
+    "chapterSlug": "poland",
+    "chapterName": "WIAL Poland",
+    "region": "Europe",
+    "profileUrl": "https://directory.wial.org/poland/coaches/anna-solak",
+    "externalUrl": "https://directory.wial.org/poland/coaches/anna-solak",
+    "phone": null,
+    "email": null,
+    "website": null,
+    "about": "Public coach record imported from the WIAL directory export for Poland. Detailed biography and certification level need verification from source systems.",
+    "languages": [
+      "Polish",
+      "English"
+    ],
+    "languageCodes": [
+      "pl",
+      "en"
+    ],
+    "certificationLevel": null,
+    "certificationLabel": "Verification needed",
+    "approvalStatus": "APPROVED",
+    "sourceType": "csv-import",
+    "searchKeywords": [
+      "Poland",
+      "WIAL Poland",
+      "Europe",
+      "Polish",
+      "English"
+    ],
+    "searchDocument": "Anna Solak WIAL directory coach Public coach record imported from the WIAL directory export for Poland. Detailed biography and certification level need verification from source systems. Poland WIAL Poland Polish English Europe",
+    "dataCompleteness": 0.5,
+    "sourceGapFlags": [
+      "missing_bio",
+      "missing_phone",
+      "missing_email",
+      "missing_certification_sync",
+      "missing_verified_specializations"
+    ]
+  },
+  {
+    "id": "coach-025",
+    "name": "Anna Wójcik",
+    "headline": "WIAL directory coach",
+    "company": null,
+    "locationText": "BełChatóW, Poland",
+    "countrySlug": "poland",
+    "countryName": "Poland",
+    "citySlug": "bełchatów",
+    "cityName": "BełChatóW",
+    "chapterSlug": "poland",
+    "chapterName": "WIAL Poland",
+    "region": "Europe",
+    "profileUrl": "https://directory.wial.org/poland/bełchatów/coaches/anna-wójcik",
+    "externalUrl": "https://directory.wial.org/poland/bełchatów/coaches/anna-wójcik",
+    "phone": "500133154",
+    "email": null,
+    "website": null,
+    "about": "Public coach record imported from the WIAL directory export for Poland. Detailed biography and certification level need verification from source systems.",
+    "languages": [
+      "Polish",
+      "English"
+    ],
+    "languageCodes": [
+      "pl",
+      "en"
+    ],
+    "certificationLevel": null,
+    "certificationLabel": "Verification needed",
+    "approvalStatus": "APPROVED",
+    "sourceType": "csv-import",
+    "searchKeywords": [
+      "Poland",
+      "WIAL Poland",
+      "Europe",
+      "Polish",
+      "English",
+      "BełChatóW"
+    ],
+    "searchDocument": "Anna Wójcik WIAL directory coach Public coach record imported from the WIAL directory export for Poland. Detailed biography and certification level need verification from source systems. Poland BełChatóW WIAL Poland Polish English Europe",
+    "dataCompleteness": 0.6,
+    "sourceGapFlags": [
+      "missing_bio",
+      "missing_email",
+      "missing_certification_sync",
+      "missing_verified_specializations"
+    ]
+  },
+  {
+    "id": "coach-026",
+    "name": "Annelies Keuning",
+    "headline": "WIAL directory coach",
+    "company": null,
+    "locationText": "Netherlands",
+    "countrySlug": "netherlands",
+    "countryName": "Netherlands",
+    "citySlug": null,
+    "cityName": null,
+    "chapterSlug": "netherlands",
+    "chapterName": "WIAL Netherlands",
+    "region": "Europe",
+    "profileUrl": "https://directory.wial.org/netherlands/coaches/annelies-keuning",
+    "externalUrl": "https://directory.wial.org/netherlands/coaches/annelies-keuning",
+    "phone": null,
+    "email": null,
+    "website": null,
+    "about": "Public coach record imported from the WIAL directory export for Netherlands. Detailed biography and certification level need verification from source systems.",
+    "languages": [
+      "Dutch",
+      "English"
+    ],
+    "languageCodes": [
+      "nl",
+      "en"
+    ],
+    "certificationLevel": null,
+    "certificationLabel": "Verification needed",
+    "approvalStatus": "APPROVED",
+    "sourceType": "csv-import",
+    "searchKeywords": [
+      "Netherlands",
+      "WIAL Netherlands",
+      "Europe",
+      "Dutch",
+      "English"
+    ],
+    "searchDocument": "Annelies Keuning WIAL directory coach Public coach record imported from the WIAL directory export for Netherlands. Detailed biography and certification level need verification from source systems. Netherlands WIAL Netherlands Dutch English Europe",
+    "dataCompleteness": 0.5,
+    "sourceGapFlags": [
+      "missing_bio",
+      "missing_phone",
+      "missing_email",
+      "missing_certification_sync",
+      "missing_verified_specializations"
+    ]
+  },
+  {
+    "id": "coach-027",
+    "name": "Antonella Mediati",
+    "headline": "WIAL directory coach",
+    "company": null,
+    "locationText": "Paris, France",
+    "countrySlug": "france",
+    "countryName": "France",
+    "citySlug": "paris",
+    "cityName": "Paris",
+    "chapterSlug": "france",
+    "chapterName": "WIAL France",
+    "region": "Europe",
+    "profileUrl": "https://directory.wial.org/france/paris/coaches/antonella-mediati",
+    "externalUrl": "https://directory.wial.org/france/paris/coaches/antonella-mediati",
+    "phone": "+33 698811584",
+    "email": null,
+    "website": null,
+    "about": "Public coach record imported from the WIAL directory export for France. Detailed biography and certification level need verification from source systems.",
+    "languages": [
+      "French",
+      "English"
+    ],
+    "languageCodes": [
+      "fr",
+      "en"
+    ],
+    "certificationLevel": null,
+    "certificationLabel": "Verification needed",
+    "approvalStatus": "APPROVED",
+    "sourceType": "csv-import",
+    "searchKeywords": [
+      "France",
+      "WIAL France",
+      "Europe",
+      "French",
+      "English",
+      "Paris"
+    ],
+    "searchDocument": "Antonella Mediati WIAL directory coach Public coach record imported from the WIAL directory export for France. Detailed biography and certification level need verification from source systems. France Paris WIAL France French English Europe",
+    "dataCompleteness": 0.6,
+    "sourceGapFlags": [
+      "missing_bio",
+      "missing_email",
+      "missing_certification_sync",
+      "missing_verified_specializations"
+    ]
+  },
+  {
+    "id": "coach-028",
+    "name": "Ardelia Isa",
+    "headline": "WIAL directory coach",
+    "company": null,
+    "locationText": "Malaysia",
+    "countrySlug": "malaysia",
+    "countryName": "Malaysia",
+    "citySlug": null,
+    "cityName": null,
+    "chapterSlug": "malaysia",
+    "chapterName": "WIAL Malaysia",
+    "region": "Asia-Pacific",
+    "profileUrl": "https://directory.wial.org/malaysia/coaches/ardelia-isa",
+    "externalUrl": "https://directory.wial.org/malaysia/coaches/ardelia-isa",
+    "phone": null,
+    "email": null,
+    "website": null,
+    "about": "Public coach record imported from the WIAL directory export for Malaysia. Detailed biography and certification level need verification from source systems.",
+    "languages": [
+      "Malay",
+      "English"
+    ],
+    "languageCodes": [
+      "ms",
+      "en"
+    ],
+    "certificationLevel": null,
+    "certificationLabel": "Verification needed",
+    "approvalStatus": "APPROVED",
+    "sourceType": "csv-import",
+    "searchKeywords": [
+      "Malaysia",
+      "WIAL Malaysia",
+      "Asia-Pacific",
+      "Malay",
+      "English"
+    ],
+    "searchDocument": "Ardelia Isa WIAL directory coach Public coach record imported from the WIAL directory export for Malaysia. Detailed biography and certification level need verification from source systems. Malaysia WIAL Malaysia Malay English Asia-Pacific",
+    "dataCompleteness": 0.5,
+    "sourceGapFlags": [
+      "missing_bio",
+      "missing_phone",
+      "missing_email",
+      "missing_certification_sync",
+      "missing_verified_specializations"
+    ]
+  },
+  {
+    "id": "coach-029",
+    "name": "Aryuwat Chongcharoenchaikul",
+    "headline": "WIAL directory coach",
+    "company": null,
+    "locationText": "Thailand",
+    "countrySlug": "thailand",
+    "countryName": "Thailand",
+    "citySlug": null,
+    "cityName": null,
+    "chapterSlug": "thailand",
+    "chapterName": "WIAL Thailand",
+    "region": "Asia-Pacific",
+    "profileUrl": "https://directory.wial.org/thailand/coaches/aryuwat-chongcharoenchaikul",
+    "externalUrl": "https://directory.wial.org/thailand/coaches/aryuwat-chongcharoenchaikul",
+    "phone": "+66896802828",
+    "email": null,
+    "website": null,
+    "about": "Public coach record imported from the WIAL directory export for Thailand. Detailed biography and certification level need verification from source systems.",
+    "languages": [
+      "Thai",
+      "English"
+    ],
+    "languageCodes": [
+      "th",
+      "en"
+    ],
+    "certificationLevel": null,
+    "certificationLabel": "Verification needed",
+    "approvalStatus": "APPROVED",
+    "sourceType": "csv-import",
+    "searchKeywords": [
+      "Thailand",
+      "WIAL Thailand",
+      "Asia-Pacific",
+      "Thai",
+      "English"
+    ],
+    "searchDocument": "Aryuwat Chongcharoenchaikul WIAL directory coach Public coach record imported from the WIAL directory export for Thailand. Detailed biography and certification level need verification from source systems. Thailand WIAL Thailand Thai English Asia-Pacific",
+    "dataCompleteness": 0.6,
+    "sourceGapFlags": [
+      "missing_bio",
+      "missing_email",
+      "missing_certification_sync",
+      "missing_verified_specializations"
+    ]
+  },
+  {
+    "id": "coach-030",
+    "name": "Athitkorn Niyomdechateerachat",
+    "headline": "WIAL directory coach",
+    "company": null,
+    "locationText": "Bangkok, Thailand",
+    "countrySlug": "thailand",
+    "countryName": "Thailand",
+    "citySlug": "bangkok",
+    "cityName": "Bangkok",
+    "chapterSlug": "thailand",
+    "chapterName": "WIAL Thailand",
+    "region": "Asia-Pacific",
+    "profileUrl": "https://directory.wial.org/thailand/bangkok/coaches/athitkorn-niyomdechateerachat",
+    "externalUrl": "https://directory.wial.org/thailand/bangkok/coaches/athitkorn-niyomdechateerachat",
+    "phone": "66966294593",
+    "email": null,
+    "website": null,
+    "about": "Public coach record imported from the WIAL directory export for Thailand. Detailed biography and certification level need verification from source systems.",
+    "languages": [
+      "Thai",
+      "English"
+    ],
+    "languageCodes": [
+      "th",
+      "en"
+    ],
+    "certificationLevel": null,
+    "certificationLabel": "Verification needed",
+    "approvalStatus": "APPROVED",
+    "sourceType": "csv-import",
+    "searchKeywords": [
+      "Thailand",
+      "WIAL Thailand",
+      "Asia-Pacific",
+      "Thai",
+      "English",
+      "Bangkok"
+    ],
+    "searchDocument": "Athitkorn Niyomdechateerachat WIAL directory coach Public coach record imported from the WIAL directory export for Thailand. Detailed biography and certification level need verification from source systems. Thailand Bangkok WIAL Thailand Thai English Asia-Pacific",
+    "dataCompleteness": 0.6,
+    "sourceGapFlags": [
+      "missing_bio",
+      "missing_email",
+      "missing_certification_sync",
+      "missing_verified_specializations"
+    ]
+  },
+  {
+    "id": "coach-031",
+    "name": "Attakorn Thanyalakmetha",
+    "headline": "WIAL directory coach",
+    "company": null,
+    "locationText": "Thailand",
+    "countrySlug": "thailand",
+    "countryName": "Thailand",
+    "citySlug": null,
+    "cityName": null,
+    "chapterSlug": "thailand",
+    "chapterName": "WIAL Thailand",
+    "region": "Asia-Pacific",
+    "profileUrl": "https://directory.wial.org/thailand/coaches/attakorn-thanyalakmetha",
+    "externalUrl": "https://directory.wial.org/thailand/coaches/attakorn-thanyalakmetha",
+    "phone": null,
+    "email": null,
+    "website": null,
+    "about": "Public coach record imported from the WIAL directory export for Thailand. Detailed biography and certification level need verification from source systems.",
+    "languages": [
+      "Thai",
+      "English"
+    ],
+    "languageCodes": [
+      "th",
+      "en"
+    ],
+    "certificationLevel": null,
+    "certificationLabel": "Verification needed",
+    "approvalStatus": "APPROVED",
+    "sourceType": "csv-import",
+    "searchKeywords": [
+      "Thailand",
+      "WIAL Thailand",
+      "Asia-Pacific",
+      "Thai",
+      "English"
+    ],
+    "searchDocument": "Attakorn Thanyalakmetha WIAL directory coach Public coach record imported from the WIAL directory export for Thailand. Detailed biography and certification level need verification from source systems. Thailand WIAL Thailand Thai English Asia-Pacific",
+    "dataCompleteness": 0.5,
+    "sourceGapFlags": [
+      "missing_bio",
+      "missing_phone",
+      "missing_email",
+      "missing_certification_sync",
+      "missing_verified_specializations"
+    ]
+  },
+  {
+    "id": "coach-032",
+    "name": "B.T. Hang Tuah Baharudin",
+    "headline": "WIAL directory coach",
+    "company": null,
+    "locationText": "Malaysia",
+    "countrySlug": "malaysia",
+    "countryName": "Malaysia",
+    "citySlug": null,
+    "cityName": null,
+    "chapterSlug": "malaysia",
+    "chapterName": "WIAL Malaysia",
+    "region": "Asia-Pacific",
+    "profileUrl": "https://directory.wial.org/malaysia/coaches/b-t-hang-tuah-baharudin",
+    "externalUrl": "https://directory.wial.org/malaysia/coaches/b-t-hang-tuah-baharudin",
+    "phone": null,
+    "email": null,
+    "website": null,
+    "about": "Public coach record imported from the WIAL directory export for Malaysia. Detailed biography and certification level need verification from source systems.",
+    "languages": [
+      "Malay",
+      "English"
+    ],
+    "languageCodes": [
+      "ms",
+      "en"
+    ],
+    "certificationLevel": null,
+    "certificationLabel": "Verification needed",
+    "approvalStatus": "APPROVED",
+    "sourceType": "csv-import",
+    "searchKeywords": [
+      "Malaysia",
+      "WIAL Malaysia",
+      "Asia-Pacific",
+      "Malay",
+      "English"
+    ],
+    "searchDocument": "B.T. Hang Tuah Baharudin WIAL directory coach Public coach record imported from the WIAL directory export for Malaysia. Detailed biography and certification level need verification from source systems. Malaysia WIAL Malaysia Malay English Asia-Pacific",
+    "dataCompleteness": 0.5,
+    "sourceGapFlags": [
+      "missing_bio",
+      "missing_phone",
+      "missing_email",
+      "missing_certification_sync",
+      "missing_verified_specializations"
+    ]
+  },
+  {
+    "id": "coach-033",
+    "name": "Barbara Bruska",
+    "headline": "WIAL directory coach",
+    "company": null,
+    "locationText": "Poland",
+    "countrySlug": "poland",
+    "countryName": "Poland",
+    "citySlug": null,
+    "cityName": null,
+    "chapterSlug": "poland",
+    "chapterName": "WIAL Poland",
+    "region": "Europe",
+    "profileUrl": "https://directory.wial.org/poland/coaches/barbara-bruska",
+    "externalUrl": "https://directory.wial.org/poland/coaches/barbara-bruska",
+    "phone": null,
+    "email": null,
+    "website": null,
+    "about": "Public coach record imported from the WIAL directory export for Poland. Detailed biography and certification level need verification from source systems.",
+    "languages": [
+      "Polish",
+      "English"
+    ],
+    "languageCodes": [
+      "pl",
+      "en"
+    ],
+    "certificationLevel": null,
+    "certificationLabel": "Verification needed",
+    "approvalStatus": "APPROVED",
+    "sourceType": "csv-import",
+    "searchKeywords": [
+      "Poland",
+      "WIAL Poland",
+      "Europe",
+      "Polish",
+      "English"
+    ],
+    "searchDocument": "Barbara Bruska WIAL directory coach Public coach record imported from the WIAL directory export for Poland. Detailed biography and certification level need verification from source systems. Poland WIAL Poland Polish English Europe",
+    "dataCompleteness": 0.5,
+    "sourceGapFlags": [
+      "missing_bio",
+      "missing_phone",
+      "missing_email",
+      "missing_certification_sync",
+      "missing_verified_specializations"
+    ]
+  },
+  {
+    "id": "coach-034",
+    "name": "Bassel Houranieh",
+    "headline": "WIAL directory coach",
+    "company": null,
+    "locationText": "Syria",
+    "countrySlug": "syria",
+    "countryName": "Syria",
+    "citySlug": null,
+    "cityName": null,
+    "chapterSlug": "syria",
+    "chapterName": "WIAL Syria",
+    "region": "Middle East",
+    "profileUrl": "https://directory.wial.org/syrian-arab-republic/coaches/bassel-houranieh",
+    "externalUrl": "https://directory.wial.org/syrian-arab-republic/coaches/bassel-houranieh",
+    "phone": null,
+    "email": null,
+    "website": null,
+    "about": "Public coach record imported from the WIAL directory export for Syria. Detailed biography and certification level need verification from source systems.",
+    "languages": [
+      "Arabic",
+      "English"
+    ],
+    "languageCodes": [
+      "ar",
+      "en"
+    ],
+    "certificationLevel": null,
+    "certificationLabel": "Verification needed",
+    "approvalStatus": "APPROVED",
+    "sourceType": "csv-import",
+    "searchKeywords": [
+      "Syria",
+      "WIAL Syria",
+      "Middle East",
+      "Arabic",
+      "English"
+    ],
+    "searchDocument": "Bassel Houranieh WIAL directory coach Public coach record imported from the WIAL directory export for Syria. Detailed biography and certification level need verification from source systems. Syria WIAL Syria Arabic English Middle East",
+    "dataCompleteness": 0.5,
+    "sourceGapFlags": [
+      "missing_bio",
+      "missing_phone",
+      "missing_email",
+      "missing_certification_sync",
+      "missing_verified_specializations"
+    ]
+  },
+  {
+    "id": "coach-035",
+    "name": "Bea Carson",
+    "headline": "WIAL directory coach",
+    "company": null,
+    "locationText": "Annapolis, United States",
+    "countrySlug": "united-states",
+    "countryName": "United States",
+    "citySlug": "annapolis",
+    "cityName": "Annapolis",
+    "chapterSlug": "united-states",
+    "chapterName": "WIAL USA",
+    "region": "North America",
+    "profileUrl": "https://directory.wial.org/united-states/annapolis/coaches/bea-carson",
+    "externalUrl": "https://directory.wial.org/united-states/annapolis/coaches/bea-carson",
+    "phone": "410-353-4722",
+    "email": null,
+    "website": null,
+    "about": "Public coach record imported from the WIAL directory export for United States. Detailed biography and certification level need verification from source systems.",
+    "languages": [
+      "English"
+    ],
+    "languageCodes": [
+      "en"
+    ],
+    "certificationLevel": null,
+    "certificationLabel": "Verification needed",
+    "approvalStatus": "APPROVED",
+    "sourceType": "csv-import",
+    "searchKeywords": [
+      "United States",
+      "WIAL USA",
+      "North America",
+      "English",
+      "Annapolis"
+    ],
+    "searchDocument": "Bea Carson WIAL directory coach Public coach record imported from the WIAL directory export for United States. Detailed biography and certification level need verification from source systems. United States Annapolis WIAL USA English North America",
+    "dataCompleteness": 0.6,
+    "sourceGapFlags": [
+      "missing_bio",
+      "missing_email",
+      "missing_certification_sync",
+      "missing_verified_specializations"
+    ]
+  },
+  {
+    "id": "coach-036",
+    "name": "Beata Pluta",
+    "headline": "WIAL directory coach",
+    "company": null,
+    "locationText": "Szczecin, Poland",
+    "countrySlug": "poland",
+    "countryName": "Poland",
+    "citySlug": "szczecin",
+    "cityName": "Szczecin",
+    "chapterSlug": "poland",
+    "chapterName": "WIAL Poland",
+    "region": "Europe",
+    "profileUrl": "https://directory.wial.org/poland/szczecin/coaches/beata-pluta",
+    "externalUrl": "https://directory.wial.org/poland/szczecin/coaches/beata-pluta",
+    "phone": "604415777",
+    "email": null,
+    "website": null,
+    "about": "Public coach record imported from the WIAL directory export for Poland. Detailed biography and certification level need verification from source systems.",
+    "languages": [
+      "Polish",
+      "English"
+    ],
+    "languageCodes": [
+      "pl",
+      "en"
+    ],
+    "certificationLevel": null,
+    "certificationLabel": "Verification needed",
+    "approvalStatus": "APPROVED",
+    "sourceType": "csv-import",
+    "searchKeywords": [
+      "Poland",
+      "WIAL Poland",
+      "Europe",
+      "Polish",
+      "English",
+      "Szczecin"
+    ],
+    "searchDocument": "Beata Pluta WIAL directory coach Public coach record imported from the WIAL directory export for Poland. Detailed biography and certification level need verification from source systems. Poland Szczecin WIAL Poland Polish English Europe",
+    "dataCompleteness": 0.6,
+    "sourceGapFlags": [
+      "missing_bio",
+      "missing_email",
+      "missing_certification_sync",
+      "missing_verified_specializations"
+    ]
+  },
+  {
+    "id": "coach-037",
+    "name": "Beata Strzałka",
+    "headline": "WIAL directory coach",
+    "company": null,
+    "locationText": "Warsaw, Poland",
+    "countrySlug": "poland",
+    "countryName": "Poland",
+    "citySlug": "warsaw",
+    "cityName": "Warsaw",
+    "chapterSlug": "poland",
+    "chapterName": "WIAL Poland",
+    "region": "Europe",
+    "profileUrl": "https://directory.wial.org/poland/warsaw/coaches/beata-strzałka",
+    "externalUrl": "https://directory.wial.org/poland/warsaw/coaches/beata-strzałka",
+    "phone": null,
+    "email": null,
+    "website": null,
+    "about": "Public coach record imported from the WIAL directory export for Poland. Detailed biography and certification level need verification from source systems.",
+    "languages": [
+      "Polish",
+      "English"
+    ],
+    "languageCodes": [
+      "pl",
+      "en"
+    ],
+    "certificationLevel": null,
+    "certificationLabel": "Verification needed",
+    "approvalStatus": "APPROVED",
+    "sourceType": "csv-import",
+    "searchKeywords": [
+      "Poland",
+      "WIAL Poland",
+      "Europe",
+      "Polish",
+      "English",
+      "Warsaw"
+    ],
+    "searchDocument": "Beata Strzałka WIAL directory coach Public coach record imported from the WIAL directory export for Poland. Detailed biography and certification level need verification from source systems. Poland Warsaw WIAL Poland Polish English Europe",
+    "dataCompleteness": 0.5,
+    "sourceGapFlags": [
+      "missing_bio",
+      "missing_phone",
+      "missing_email",
+      "missing_certification_sync",
+      "missing_verified_specializations"
+    ]
+  },
+  {
+    "id": "coach-038",
+    "name": "Beatriz Pacheco",
+    "headline": "WIAL directory coach",
+    "company": null,
+    "locationText": "Brazil",
+    "countrySlug": "brazil",
+    "countryName": "Brazil",
+    "citySlug": null,
+    "cityName": null,
+    "chapterSlug": "brazil",
+    "chapterName": "WIAL Brazil",
+    "region": "South America",
+    "profileUrl": "https://directory.wial.org/brazil/coaches/beatriz-pacheco",
+    "externalUrl": "https://directory.wial.org/brazil/coaches/beatriz-pacheco",
+    "phone": null,
+    "email": null,
+    "website": null,
+    "about": "Public coach record imported from the WIAL directory export for Brazil. Detailed biography and certification level need verification from source systems.",
+    "languages": [
+      "Portuguese"
+    ],
+    "languageCodes": [
+      "pt"
+    ],
+    "certificationLevel": null,
+    "certificationLabel": "Verification needed",
+    "approvalStatus": "APPROVED",
+    "sourceType": "csv-import",
+    "searchKeywords": [
+      "Brazil",
+      "WIAL Brazil",
+      "South America",
+      "Portuguese"
+    ],
+    "searchDocument": "Beatriz Pacheco WIAL directory coach Public coach record imported from the WIAL directory export for Brazil. Detailed biography and certification level need verification from source systems. Brazil WIAL Brazil Portuguese South America",
+    "dataCompleteness": 0.5,
+    "sourceGapFlags": [
+      "missing_bio",
+      "missing_phone",
+      "missing_email",
+      "missing_certification_sync",
+      "missing_verified_specializations"
+    ]
+  },
+  {
+    "id": "coach-039",
+    "name": "Benita Jordan",
+    "headline": "WIAL directory coach",
+    "company": null,
+    "locationText": "United States",
+    "countrySlug": "united-states",
+    "countryName": "United States",
+    "citySlug": null,
+    "cityName": null,
+    "chapterSlug": "united-states",
+    "chapterName": "WIAL USA",
+    "region": "North America",
+    "profileUrl": "https://directory.wial.org/united-states/coaches/benita-jordan",
+    "externalUrl": "https://directory.wial.org/united-states/coaches/benita-jordan",
+    "phone": null,
+    "email": null,
+    "website": null,
+    "about": "Public coach record imported from the WIAL directory export for United States. Detailed biography and certification level need verification from source systems.",
+    "languages": [
+      "English"
+    ],
+    "languageCodes": [
+      "en"
+    ],
+    "certificationLevel": null,
+    "certificationLabel": "Verification needed",
+    "approvalStatus": "APPROVED",
+    "sourceType": "csv-import",
+    "searchKeywords": [
+      "United States",
+      "WIAL USA",
+      "North America",
+      "English"
+    ],
+    "searchDocument": "Benita Jordan WIAL directory coach Public coach record imported from the WIAL directory export for United States. Detailed biography and certification level need verification from source systems. United States WIAL USA English North America",
+    "dataCompleteness": 0.5,
+    "sourceGapFlags": [
+      "missing_bio",
+      "missing_phone",
+      "missing_email",
+      "missing_certification_sync",
+      "missing_verified_specializations"
+    ]
+  },
+  {
+    "id": "coach-040",
+    "name": "Benjamin Solomon",
+    "headline": "WIAL directory coach",
+    "company": null,
+    "locationText": "Nantes, France",
+    "countrySlug": "france",
+    "countryName": "France",
+    "citySlug": "nantes",
+    "cityName": "Nantes",
+    "chapterSlug": "france",
+    "chapterName": "WIAL France",
+    "region": "Europe",
+    "profileUrl": "https://directory.wial.org/france/nantes/coaches/benjamin-solomon",
+    "externalUrl": "https://directory.wial.org/france/nantes/coaches/benjamin-solomon",
+    "phone": "+33625326321",
+    "email": null,
+    "website": null,
+    "about": "Public coach record imported from the WIAL directory export for France. Detailed biography and certification level need verification from source systems.",
+    "languages": [
+      "French",
+      "English"
+    ],
+    "languageCodes": [
+      "fr",
+      "en"
+    ],
+    "certificationLevel": null,
+    "certificationLabel": "Verification needed",
+    "approvalStatus": "APPROVED",
+    "sourceType": "csv-import",
+    "searchKeywords": [
+      "France",
+      "WIAL France",
+      "Europe",
+      "French",
+      "English",
+      "Nantes"
+    ],
+    "searchDocument": "Benjamin Solomon WIAL directory coach Public coach record imported from the WIAL directory export for France. Detailed biography and certification level need verification from source systems. France Nantes WIAL France French English Europe",
+    "dataCompleteness": 0.6,
+    "sourceGapFlags": [
+      "missing_bio",
+      "missing_email",
+      "missing_certification_sync",
+      "missing_verified_specializations"
+    ]
+  },
+  {
+    "id": "coach-041",
+    "name": "Bert Veldhuizen",
+    "headline": "Aangenaam, ik ben Bert van Veldhuizen.",
+    "company": null,
+    "locationText": "Barneveld, Netherlands",
+    "countrySlug": "netherlands",
+    "countryName": "Netherlands",
+    "citySlug": "barneveld",
+    "cityName": "Barneveld",
+    "chapterSlug": "netherlands",
+    "chapterName": "WIAL Netherlands",
+    "region": "Europe",
+    "profileUrl": "https://directory.wial.org/netherlands/barneveld/coaches/bert-veldhuizen",
+    "externalUrl": "https://directory.wial.org/netherlands/barneveld/coaches/bert-veldhuizen",
+    "phone": "0622588202",
+    "email": null,
+    "website": null,
+    "about": "Public coach record imported from the WIAL directory export for Netherlands. Detailed biography and certification level need verification from source systems.",
+    "languages": [
+      "Dutch",
+      "English"
+    ],
+    "languageCodes": [
+      "nl",
+      "en"
+    ],
+    "certificationLevel": null,
+    "certificationLabel": "Verification needed",
+    "approvalStatus": "APPROVED",
+    "sourceType": "csv-import",
+    "searchKeywords": [
+      "Netherlands",
+      "WIAL Netherlands",
+      "Europe",
+      "Dutch",
+      "English",
+      "Barneveld"
+    ],
+    "searchDocument": "Bert Veldhuizen Aangenaam, ik ben Bert van Veldhuizen. Public coach record imported from the WIAL directory export for Netherlands. Detailed biography and certification level need verification from source systems. Netherlands Barneveld WIAL Netherlands Dutch English Europe",
+    "dataCompleteness": 0.6,
+    "sourceGapFlags": [
+      "missing_bio",
+      "missing_email",
+      "missing_certification_sync",
+      "missing_verified_specializations"
+    ]
+  },
+  {
+    "id": "coach-042",
+    "name": "Bettyna Beni",
+    "headline": "WIAL directory coach",
+    "company": null,
+    "locationText": "Brazil",
+    "countrySlug": "brazil",
+    "countryName": "Brazil",
+    "citySlug": null,
+    "cityName": null,
+    "chapterSlug": "brazil",
+    "chapterName": "WIAL Brazil",
+    "region": "South America",
+    "profileUrl": "https://directory.wial.org/brazil/coaches/bettyna-beni",
+    "externalUrl": "https://directory.wial.org/brazil/coaches/bettyna-beni",
+    "phone": "+55 (11) 99357-5379",
+    "email": null,
+    "website": null,
+    "about": "Public coach record imported from the WIAL directory export for Brazil. Detailed biography and certification level need verification from source systems.",
+    "languages": [
+      "Portuguese"
+    ],
+    "languageCodes": [
+      "pt"
+    ],
+    "certificationLevel": null,
+    "certificationLabel": "Verification needed",
+    "approvalStatus": "APPROVED",
+    "sourceType": "csv-import",
+    "searchKeywords": [
+      "Brazil",
+      "WIAL Brazil",
+      "South America",
+      "Portuguese"
+    ],
+    "searchDocument": "Bettyna Beni WIAL directory coach Public coach record imported from the WIAL directory export for Brazil. Detailed biography and certification level need verification from source systems. Brazil WIAL Brazil Portuguese South America",
+    "dataCompleteness": 0.6,
+    "sourceGapFlags": [
+      "missing_bio",
+      "missing_email",
+      "missing_certification_sync",
+      "missing_verified_specializations"
+    ]
+  },
+  {
+    "id": "coach-043",
+    "name": "BHAGWAN SINGH",
+    "headline": "WIAL directory coach",
+    "company": null,
+    "locationText": "Kuala Lumpur, Malaysia",
+    "countrySlug": "malaysia",
+    "countryName": "Malaysia",
+    "citySlug": "kuala-lumpur",
+    "cityName": "Kuala Lumpur",
+    "chapterSlug": "malaysia",
+    "chapterName": "WIAL Malaysia",
+    "region": "Asia-Pacific",
+    "profileUrl": "https://directory.wial.org/malaysia/kuala-lumpur/coaches/bhagwan-singh",
+    "externalUrl": "https://directory.wial.org/malaysia/kuala-lumpur/coaches/bhagwan-singh",
+    "phone": "0133231775",
+    "email": null,
+    "website": null,
+    "about": "Public coach record imported from the WIAL directory export for Malaysia. Detailed biography and certification level need verification from source systems.",
+    "languages": [
+      "Malay",
+      "English"
+    ],
+    "languageCodes": [
+      "ms",
+      "en"
+    ],
+    "certificationLevel": null,
+    "certificationLabel": "Verification needed",
+    "approvalStatus": "APPROVED",
+    "sourceType": "csv-import",
+    "searchKeywords": [
+      "Malaysia",
+      "WIAL Malaysia",
+      "Asia-Pacific",
+      "Malay",
+      "English",
+      "Kuala Lumpur"
+    ],
+    "searchDocument": "BHAGWAN SINGH WIAL directory coach Public coach record imported from the WIAL directory export for Malaysia. Detailed biography and certification level need verification from source systems. Malaysia Kuala Lumpur WIAL Malaysia Malay English Asia-Pacific",
+    "dataCompleteness": 0.6,
+    "sourceGapFlags": [
+      "missing_bio",
+      "missing_email",
+      "missing_certification_sync",
+      "missing_verified_specializations"
+    ]
+  },
+  {
+    "id": "coach-044",
+    "name": "Bill Thimmesch",
+    "headline": "WIAL directory coach",
+    "company": null,
+    "locationText": "Carson City, United States",
+    "countrySlug": "united-states",
+    "countryName": "United States",
+    "citySlug": "carson-city",
+    "cityName": "Carson City",
+    "chapterSlug": "united-states",
+    "chapterName": "WIAL USA",
+    "region": "North America",
+    "profileUrl": "https://directory.wial.org/united-states/carson-city/coaches/bill-thimmesch",
+    "externalUrl": "https://directory.wial.org/united-states/carson-city/coaches/bill-thimmesch",
+    "phone": "240-586-0467",
+    "email": null,
+    "website": null,
+    "about": "Public coach record imported from the WIAL directory export for United States. Detailed biography and certification level need verification from source systems.",
+    "languages": [
+      "English"
+    ],
+    "languageCodes": [
+      "en"
+    ],
+    "certificationLevel": null,
+    "certificationLabel": "Verification needed",
+    "approvalStatus": "APPROVED",
+    "sourceType": "csv-import",
+    "searchKeywords": [
+      "United States",
+      "WIAL USA",
+      "North America",
+      "English",
+      "Carson City"
+    ],
+    "searchDocument": "Bill Thimmesch WIAL directory coach Public coach record imported from the WIAL directory export for United States. Detailed biography and certification level need verification from source systems. United States Carson City WIAL USA English North America",
+    "dataCompleteness": 0.6,
+    "sourceGapFlags": [
+      "missing_bio",
+      "missing_email",
+      "missing_certification_sync",
+      "missing_verified_specializations"
+    ]
+  },
+  {
+    "id": "coach-045",
+    "name": "Bob van de Woerdt",
+    "headline": "WIAL directory coach",
+    "company": null,
+    "locationText": "Bemmel, Netherlands",
+    "countrySlug": "netherlands",
+    "countryName": "Netherlands",
+    "citySlug": "bemmel",
+    "cityName": "Bemmel",
+    "chapterSlug": "netherlands",
+    "chapterName": "WIAL Netherlands",
+    "region": "Europe",
+    "profileUrl": "https://directory.wial.org/netherlands/bemmel/coaches/bob-van-de-woerdt",
+    "externalUrl": "https://directory.wial.org/netherlands/bemmel/coaches/bob-van-de-woerdt",
+    "phone": null,
+    "email": null,
+    "website": null,
+    "about": "Public coach record imported from the WIAL directory export for Netherlands. Detailed biography and certification level need verification from source systems.",
+    "languages": [
+      "Dutch",
+      "English"
+    ],
+    "languageCodes": [
+      "nl",
+      "en"
+    ],
+    "certificationLevel": null,
+    "certificationLabel": "Verification needed",
+    "approvalStatus": "APPROVED",
+    "sourceType": "csv-import",
+    "searchKeywords": [
+      "Netherlands",
+      "WIAL Netherlands",
+      "Europe",
+      "Dutch",
+      "English",
+      "Bemmel"
+    ],
+    "searchDocument": "Bob van de Woerdt WIAL directory coach Public coach record imported from the WIAL directory export for Netherlands. Detailed biography and certification level need verification from source systems. Netherlands Bemmel WIAL Netherlands Dutch English Europe",
+    "dataCompleteness": 0.5,
+    "sourceGapFlags": [
+      "missing_bio",
+      "missing_phone",
+      "missing_email",
+      "missing_certification_sync",
+      "missing_verified_specializations"
+    ]
+  },
+  {
+    "id": "coach-046",
+    "name": "Bonan Li",
+    "headline": "WIAL directory coach",
+    "company": null,
+    "locationText": "China",
+    "countrySlug": "china",
+    "countryName": "China",
+    "citySlug": null,
+    "cityName": null,
+    "chapterSlug": "china",
+    "chapterName": "WIAL China",
+    "region": "Asia-Pacific",
+    "profileUrl": "https://directory.wial.org/china/coaches/bonan-li",
+    "externalUrl": "https://directory.wial.org/china/coaches/bonan-li",
+    "phone": null,
+    "email": null,
+    "website": null,
+    "about": "Public coach record imported from the WIAL directory export for China. Detailed biography and certification level need verification from source systems.",
+    "languages": [
+      "Mandarin",
+      "English"
+    ],
+    "languageCodes": [
+      "zh",
+      "en"
+    ],
+    "certificationLevel": null,
+    "certificationLabel": "Verification needed",
+    "approvalStatus": "APPROVED",
+    "sourceType": "csv-import",
+    "searchKeywords": [
+      "China",
+      "WIAL China",
+      "Asia-Pacific",
+      "Mandarin",
+      "English"
+    ],
+    "searchDocument": "Bonan Li WIAL directory coach Public coach record imported from the WIAL directory export for China. Detailed biography and certification level need verification from source systems. China WIAL China Mandarin English Asia-Pacific",
+    "dataCompleteness": 0.5,
+    "sourceGapFlags": [
+      "missing_bio",
+      "missing_phone",
+      "missing_email",
+      "missing_certification_sync",
+      "missing_verified_specializations"
+    ]
+  },
+  {
+    "id": "coach-047",
+    "name": "Buoy Borin",
+    "headline": "WIAL directory coach",
+    "company": null,
+    "locationText": "Phnom Penh, Cambodia",
+    "countrySlug": "cambodia",
+    "countryName": "Cambodia",
+    "citySlug": "phnom-penh",
+    "cityName": "Phnom Penh",
+    "chapterSlug": "cambodia",
+    "chapterName": "WIAL Cambodia",
+    "region": "Asia-Pacific",
+    "profileUrl": "https://directory.wial.org/cambodia/phnom-penh/coaches/buoy-borin",
+    "externalUrl": "https://directory.wial.org/cambodia/phnom-penh/coaches/buoy-borin",
+    "phone": "+85578897788",
+    "email": null,
+    "website": null,
+    "about": "Public coach record imported from the WIAL directory export for Cambodia. Detailed biography and certification level need verification from source systems.",
+    "languages": [
+      "Khmer",
+      "English"
+    ],
+    "languageCodes": [
+      "km",
+      "en"
+    ],
+    "certificationLevel": null,
+    "certificationLabel": "Verification needed",
+    "approvalStatus": "APPROVED",
+    "sourceType": "csv-import",
+    "searchKeywords": [
+      "Cambodia",
+      "WIAL Cambodia",
+      "Asia-Pacific",
+      "Khmer",
+      "English",
+      "Phnom Penh"
+    ],
+    "searchDocument": "Buoy Borin WIAL directory coach Public coach record imported from the WIAL directory export for Cambodia. Detailed biography and certification level need verification from source systems. Cambodia Phnom Penh WIAL Cambodia Khmer English Asia-Pacific",
+    "dataCompleteness": 0.6,
+    "sourceGapFlags": [
+      "missing_bio",
+      "missing_email",
+      "missing_certification_sync",
+      "missing_verified_specializations"
+    ]
+  },
+  {
+    "id": "coach-048",
+    "name": "Camila de Paiva Pereira Valente",
+    "headline": "WIAL directory coach",
+    "company": null,
+    "locationText": "Volta Redonda, Brazil",
+    "countrySlug": "brazil",
+    "countryName": "Brazil",
+    "citySlug": "volta-redonda",
+    "cityName": "Volta Redonda",
+    "chapterSlug": "brazil",
+    "chapterName": "WIAL Brazil",
+    "region": "South America",
+    "profileUrl": "https://directory.wial.org/brazil/volta-redonda/coaches/camila-de-paiva-pereira-valente",
+    "externalUrl": "https://directory.wial.org/brazil/volta-redonda/coaches/camila-de-paiva-pereira-valente",
+    "phone": "27283-430",
+    "email": null,
+    "website": null,
+    "about": "Public coach record imported from the WIAL directory export for Brazil. Detailed biography and certification level need verification from source systems.",
+    "languages": [
+      "Portuguese"
+    ],
+    "languageCodes": [
+      "pt"
+    ],
+    "certificationLevel": null,
+    "certificationLabel": "Verification needed",
+    "approvalStatus": "APPROVED",
+    "sourceType": "csv-import",
+    "searchKeywords": [
+      "Brazil",
+      "WIAL Brazil",
+      "South America",
+      "Portuguese",
+      "Volta Redonda"
+    ],
+    "searchDocument": "Camila de Paiva Pereira Valente WIAL directory coach Public coach record imported from the WIAL directory export for Brazil. Detailed biography and certification level need verification from source systems. Brazil Volta Redonda WIAL Brazil Portuguese South America",
+    "dataCompleteness": 0.6,
+    "sourceGapFlags": [
+      "missing_bio",
+      "missing_email",
+      "missing_certification_sync",
+      "missing_verified_specializations"
+    ]
+  },
+  {
+    "id": "coach-049",
+    "name": "Carmem Rocha",
+    "headline": "WIAL directory coach",
+    "company": null,
+    "locationText": "Sao Paulo, Brazil",
+    "countrySlug": "brazil",
+    "countryName": "Brazil",
+    "citySlug": "sao-paulo",
+    "cityName": "Sao Paulo",
+    "chapterSlug": "brazil",
+    "chapterName": "WIAL Brazil",
+    "region": "South America",
+    "profileUrl": "https://directory.wial.org/brazil/sao-paulo/coaches/carmem-rocha",
+    "externalUrl": "https://directory.wial.org/brazil/sao-paulo/coaches/carmem-rocha",
+    "phone": "5511981334191",
+    "email": null,
+    "website": null,
+    "about": "Public coach record imported from the WIAL directory export for Brazil. Detailed biography and certification level need verification from source systems.",
+    "languages": [
+      "Portuguese"
+    ],
+    "languageCodes": [
+      "pt"
+    ],
+    "certificationLevel": null,
+    "certificationLabel": "Verification needed",
+    "approvalStatus": "APPROVED",
+    "sourceType": "csv-import",
+    "searchKeywords": [
+      "Brazil",
+      "WIAL Brazil",
+      "South America",
+      "Portuguese",
+      "Sao Paulo"
+    ],
+    "searchDocument": "Carmem Rocha WIAL directory coach Public coach record imported from the WIAL directory export for Brazil. Detailed biography and certification level need verification from source systems. Brazil Sao Paulo WIAL Brazil Portuguese South America",
+    "dataCompleteness": 0.6,
+    "sourceGapFlags": [
+      "missing_bio",
+      "missing_email",
+      "missing_certification_sync",
+      "missing_verified_specializations"
+    ]
+  },
+  {
+    "id": "coach-050",
+    "name": "Chaiwat Prapainainar",
+    "headline": "WIAL directory coach",
+    "company": null,
+    "locationText": "Bangkok, Thailand",
+    "countrySlug": "thailand",
+    "countryName": "Thailand",
+    "citySlug": "bangkok",
+    "cityName": "Bangkok",
+    "chapterSlug": "thailand",
+    "chapterName": "WIAL Thailand",
+    "region": "Asia-Pacific",
+    "profileUrl": "https://directory.wial.org/thailand/bangkok/coaches/chaiwat-prapainainar",
+    "externalUrl": "https://directory.wial.org/thailand/bangkok/coaches/chaiwat-prapainainar",
+    "phone": null,
+    "email": null,
+    "website": null,
+    "about": "Public coach record imported from the WIAL directory export for Thailand. Detailed biography and certification level need verification from source systems.",
+    "languages": [
+      "Thai",
+      "English"
+    ],
+    "languageCodes": [
+      "th",
+      "en"
+    ],
+    "certificationLevel": null,
+    "certificationLabel": "Verification needed",
+    "approvalStatus": "APPROVED",
+    "sourceType": "csv-import",
+    "searchKeywords": [
+      "Thailand",
+      "WIAL Thailand",
+      "Asia-Pacific",
+      "Thai",
+      "English",
+      "Bangkok"
+    ],
+    "searchDocument": "Chaiwat Prapainainar WIAL directory coach Public coach record imported from the WIAL directory export for Thailand. Detailed biography and certification level need verification from source systems. Thailand Bangkok WIAL Thailand Thai English Asia-Pacific",
+    "dataCompleteness": 0.5,
+    "sourceGapFlags": [
+      "missing_bio",
+      "missing_phone",
+      "missing_email",
+      "missing_certification_sync",
+      "missing_verified_specializations"
+    ]
+  },
+  {
+    "id": "coach-051",
+    "name": "Chaofan (Suprince) Ma",
+    "headline": "WIAL directory coach",
+    "company": null,
+    "locationText": "Hong Kong",
+    "countrySlug": "hong-kong",
+    "countryName": "Hong Kong",
+    "citySlug": null,
+    "cityName": null,
+    "chapterSlug": "hong-kong",
+    "chapterName": "WIAL Hong Kong",
+    "region": "Asia-Pacific",
+    "profileUrl": "https://directory.wial.org/hong-kong/coaches/chaofan-suprince-ma",
+    "externalUrl": "https://directory.wial.org/hong-kong/coaches/chaofan-suprince-ma",
+    "phone": null,
+    "email": null,
+    "website": null,
+    "about": "Public coach record imported from the WIAL directory export for Hong Kong. Detailed biography and certification level need verification from source systems.",
+    "languages": [
+      "Cantonese",
+      "English"
+    ],
+    "languageCodes": [
+      "yue",
+      "en"
+    ],
+    "certificationLevel": null,
+    "certificationLabel": "Verification needed",
+    "approvalStatus": "APPROVED",
+    "sourceType": "csv-import",
+    "searchKeywords": [
+      "Hong Kong",
+      "WIAL Hong Kong",
+      "Asia-Pacific",
+      "Cantonese",
+      "English"
+    ],
+    "searchDocument": "Chaofan (Suprince) Ma WIAL directory coach Public coach record imported from the WIAL directory export for Hong Kong. Detailed biography and certification level need verification from source systems. Hong Kong WIAL Hong Kong Cantonese English Asia-Pacific",
+    "dataCompleteness": 0.5,
+    "sourceGapFlags": [
+      "missing_bio",
+      "missing_phone",
+      "missing_email",
+      "missing_certification_sync",
+      "missing_verified_specializations"
+    ]
+  },
+  {
+    "id": "coach-052",
+    "name": "Chea Kagnarith",
+    "headline": "WIAL directory coach",
+    "company": null,
+    "locationText": "Cambodia",
+    "countrySlug": "cambodia",
+    "countryName": "Cambodia",
+    "citySlug": null,
+    "cityName": null,
+    "chapterSlug": "cambodia",
+    "chapterName": "WIAL Cambodia",
+    "region": "Asia-Pacific",
+    "profileUrl": "https://directory.wial.org/cambodia/coaches/chea-kagnarith",
+    "externalUrl": "https://directory.wial.org/cambodia/coaches/chea-kagnarith",
+    "phone": null,
+    "email": null,
+    "website": null,
+    "about": "Public coach record imported from the WIAL directory export for Cambodia. Detailed biography and certification level need verification from source systems.",
+    "languages": [
+      "Khmer",
+      "English"
+    ],
+    "languageCodes": [
+      "km",
+      "en"
+    ],
+    "certificationLevel": null,
+    "certificationLabel": "Verification needed",
+    "approvalStatus": "APPROVED",
+    "sourceType": "csv-import",
+    "searchKeywords": [
+      "Cambodia",
+      "WIAL Cambodia",
+      "Asia-Pacific",
+      "Khmer",
+      "English"
+    ],
+    "searchDocument": "Chea Kagnarith WIAL directory coach Public coach record imported from the WIAL directory export for Cambodia. Detailed biography and certification level need verification from source systems. Cambodia WIAL Cambodia Khmer English Asia-Pacific",
+    "dataCompleteness": 0.5,
+    "sourceGapFlags": [
+      "missing_bio",
+      "missing_phone",
+      "missing_email",
+      "missing_certification_sync",
+      "missing_verified_specializations"
+    ]
+  },
+  {
+    "id": "coach-053",
+    "name": "Choon Seng Ng",
+    "headline": "WIAL directory coach",
+    "company": null,
+    "locationText": "Singapore",
+    "countrySlug": "singapore",
+    "countryName": "Singapore",
+    "citySlug": null,
+    "cityName": null,
+    "chapterSlug": "singapore",
+    "chapterName": "WIAL Singapore",
+    "region": "Asia-Pacific",
+    "profileUrl": "https://directory.wial.org/singapore/coaches/choon-seng-ng",
+    "externalUrl": "https://directory.wial.org/singapore/coaches/choon-seng-ng",
+    "phone": "9766-9005",
+    "email": null,
+    "website": null,
+    "about": "Public coach record imported from the WIAL directory export for Singapore. Detailed biography and certification level need verification from source systems.",
+    "languages": [
+      "English",
+      "Mandarin"
+    ],
+    "languageCodes": [
+      "en",
+      "zh"
+    ],
+    "certificationLevel": null,
+    "certificationLabel": "Verification needed",
+    "approvalStatus": "APPROVED",
+    "sourceType": "csv-import",
+    "searchKeywords": [
+      "Singapore",
+      "WIAL Singapore",
+      "Asia-Pacific",
+      "English",
+      "Mandarin"
+    ],
+    "searchDocument": "Choon Seng Ng WIAL directory coach Public coach record imported from the WIAL directory export for Singapore. Detailed biography and certification level need verification from source systems. Singapore WIAL Singapore English Mandarin Asia-Pacific",
+    "dataCompleteness": 0.6,
+    "sourceGapFlags": [
+      "missing_bio",
+      "missing_email",
+      "missing_certification_sync",
+      "missing_verified_specializations"
+    ]
+  },
+  {
+    "id": "coach-054",
+    "name": "Christina Li",
+    "headline": "WIAL directory coach",
+    "company": null,
+    "locationText": "China",
+    "countrySlug": "china",
+    "countryName": "China",
+    "citySlug": null,
+    "cityName": null,
+    "chapterSlug": "china",
+    "chapterName": "WIAL China",
+    "region": "Asia-Pacific",
+    "profileUrl": "https://directory.wial.org/china/coaches/christina-li",
+    "externalUrl": "https://directory.wial.org/china/coaches/christina-li",
+    "phone": null,
+    "email": null,
+    "website": null,
+    "about": "Public coach record imported from the WIAL directory export for China. Detailed biography and certification level need verification from source systems.",
+    "languages": [
+      "Mandarin",
+      "English"
+    ],
+    "languageCodes": [
+      "zh",
+      "en"
+    ],
+    "certificationLevel": null,
+    "certificationLabel": "Verification needed",
+    "approvalStatus": "APPROVED",
+    "sourceType": "csv-import",
+    "searchKeywords": [
+      "China",
+      "WIAL China",
+      "Asia-Pacific",
+      "Mandarin",
+      "English"
+    ],
+    "searchDocument": "Christina Li WIAL directory coach Public coach record imported from the WIAL directory export for China. Detailed biography and certification level need verification from source systems. China WIAL China Mandarin English Asia-Pacific",
+    "dataCompleteness": 0.5,
+    "sourceGapFlags": [
+      "missing_bio",
+      "missing_phone",
+      "missing_email",
+      "missing_certification_sync",
+      "missing_verified_specializations"
+    ]
+  },
+  {
+    "id": "coach-055",
+    "name": "Christina ZHOU",
+    "headline": "WIAL directory coach",
+    "company": null,
+    "locationText": "Shanghai, China",
+    "countrySlug": "china",
+    "countryName": "China",
+    "citySlug": "shanghai",
+    "cityName": "Shanghai",
+    "chapterSlug": "china",
+    "chapterName": "WIAL China",
+    "region": "Asia-Pacific",
+    "profileUrl": "https://directory.wial.org/china/shanghai/coaches/christina-zhou",
+    "externalUrl": "https://directory.wial.org/china/shanghai/coaches/christina-zhou",
+    "phone": "+86-13501883365",
+    "email": null,
+    "website": null,
+    "about": "Public coach record imported from the WIAL directory export for China. Detailed biography and certification level need verification from source systems.",
+    "languages": [
+      "Mandarin",
+      "English"
+    ],
+    "languageCodes": [
+      "zh",
+      "en"
+    ],
+    "certificationLevel": null,
+    "certificationLabel": "Verification needed",
+    "approvalStatus": "APPROVED",
+    "sourceType": "csv-import",
+    "searchKeywords": [
+      "China",
+      "WIAL China",
+      "Asia-Pacific",
+      "Mandarin",
+      "English",
+      "Shanghai"
+    ],
+    "searchDocument": "Christina ZHOU WIAL directory coach Public coach record imported from the WIAL directory export for China. Detailed biography and certification level need verification from source systems. China Shanghai WIAL China Mandarin English Asia-Pacific",
+    "dataCompleteness": 0.6,
+    "sourceGapFlags": [
+      "missing_bio",
+      "missing_email",
+      "missing_certification_sync",
+      "missing_verified_specializations"
+    ]
+  },
+  {
+    "id": "coach-056",
+    "name": "Christoph Maria Ravesloot",
+    "headline": "WIAL directory coach",
+    "company": null,
+    "locationText": "Reeuwijk, Netherlands",
+    "countrySlug": "netherlands",
+    "countryName": "Netherlands",
+    "citySlug": "reeuwijk",
+    "cityName": "Reeuwijk",
+    "chapterSlug": "netherlands",
+    "chapterName": "WIAL Netherlands",
+    "region": "Europe",
+    "profileUrl": "https://directory.wial.org/netherlands/reeuwijk/coaches/christoph-maria-ravesloot",
+    "externalUrl": "https://directory.wial.org/netherlands/reeuwijk/coaches/christoph-maria-ravesloot",
+    "phone": "+31616910660",
+    "email": null,
+    "website": null,
+    "about": "Public coach record imported from the WIAL directory export for Netherlands. Detailed biography and certification level need verification from source systems.",
+    "languages": [
+      "Dutch",
+      "English"
+    ],
+    "languageCodes": [
+      "nl",
+      "en"
+    ],
+    "certificationLevel": null,
+    "certificationLabel": "Verification needed",
+    "approvalStatus": "APPROVED",
+    "sourceType": "csv-import",
+    "searchKeywords": [
+      "Netherlands",
+      "WIAL Netherlands",
+      "Europe",
+      "Dutch",
+      "English",
+      "Reeuwijk"
+    ],
+    "searchDocument": "Christoph Maria Ravesloot WIAL directory coach Public coach record imported from the WIAL directory export for Netherlands. Detailed biography and certification level need verification from source systems. Netherlands Reeuwijk WIAL Netherlands Dutch English Europe",
+    "dataCompleteness": 0.6,
+    "sourceGapFlags": [
+      "missing_bio",
+      "missing_email",
+      "missing_certification_sync",
+      "missing_verified_specializations"
+    ]
+  },
+  {
+    "id": "coach-057",
+    "name": "Chuck Appleby",
+    "headline": "WIAL directory coach",
+    "company": null,
+    "locationText": "Vienna, United States",
+    "countrySlug": "united-states",
+    "countryName": "United States",
+    "citySlug": "vienna",
+    "cityName": "Vienna",
+    "chapterSlug": "united-states",
+    "chapterName": "WIAL USA",
+    "region": "North America",
+    "profileUrl": "https://directory.wial.org/virginia/vienna/coaches/chuck-appleby",
+    "externalUrl": "https://directory.wial.org/virginia/vienna/coaches/chuck-appleby",
+    "phone": "1 703 915 0292",
+    "email": null,
+    "website": null,
+    "about": "Public coach record imported from the WIAL directory export for United States. Detailed biography and certification level need verification from source systems.",
+    "languages": [
+      "English"
+    ],
+    "languageCodes": [
+      "en"
+    ],
+    "certificationLevel": null,
+    "certificationLabel": "Verification needed",
+    "approvalStatus": "APPROVED",
+    "sourceType": "csv-import",
+    "searchKeywords": [
+      "United States",
+      "WIAL USA",
+      "North America",
+      "English",
+      "Vienna"
+    ],
+    "searchDocument": "Chuck Appleby WIAL directory coach Public coach record imported from the WIAL directory export for United States. Detailed biography and certification level need verification from source systems. United States Vienna WIAL USA English North America",
+    "dataCompleteness": 0.6,
+    "sourceGapFlags": [
+      "missing_bio",
+      "missing_email",
+      "missing_certification_sync",
+      "missing_verified_specializations"
+    ]
+  },
+  {
+    "id": "coach-058",
+    "name": "Chung Jia Yiing",
+    "headline": "WIAL directory coach",
+    "company": null,
+    "locationText": "Malaysia",
+    "countrySlug": "malaysia",
+    "countryName": "Malaysia",
+    "citySlug": null,
+    "cityName": null,
+    "chapterSlug": "malaysia",
+    "chapterName": "WIAL Malaysia",
+    "region": "Asia-Pacific",
+    "profileUrl": "https://directory.wial.org/malaysia/coaches/chung-jia-yiing",
+    "externalUrl": "https://directory.wial.org/malaysia/coaches/chung-jia-yiing",
+    "phone": null,
+    "email": null,
+    "website": null,
+    "about": "Public coach record imported from the WIAL directory export for Malaysia. Detailed biography and certification level need verification from source systems.",
+    "languages": [
+      "Malay",
+      "English"
+    ],
+    "languageCodes": [
+      "ms",
+      "en"
+    ],
+    "certificationLevel": null,
+    "certificationLabel": "Verification needed",
+    "approvalStatus": "APPROVED",
+    "sourceType": "csv-import",
+    "searchKeywords": [
+      "Malaysia",
+      "WIAL Malaysia",
+      "Asia-Pacific",
+      "Malay",
+      "English"
+    ],
+    "searchDocument": "Chung Jia Yiing WIAL directory coach Public coach record imported from the WIAL directory export for Malaysia. Detailed biography and certification level need verification from source systems. Malaysia WIAL Malaysia Malay English Asia-Pacific",
+    "dataCompleteness": 0.5,
+    "sourceGapFlags": [
+      "missing_bio",
+      "missing_phone",
+      "missing_email",
+      "missing_certification_sync",
+      "missing_verified_specializations"
+    ]
+  },
+  {
+    "id": "coach-059",
+    "name": "Claire Raynes",
+    "headline": "WIAL directory coach",
+    "company": null,
+    "locationText": "United States",
+    "countrySlug": "united-states",
+    "countryName": "United States",
+    "citySlug": null,
+    "cityName": null,
+    "chapterSlug": "united-states",
+    "chapterName": "WIAL USA",
+    "region": "North America",
+    "profileUrl": "https://directory.wial.org/united-states/coaches/claire-raynes",
+    "externalUrl": "https://directory.wial.org/united-states/coaches/claire-raynes",
+    "phone": null,
+    "email": null,
+    "website": null,
+    "about": "Public coach record imported from the WIAL directory export for United States. Detailed biography and certification level need verification from source systems.",
+    "languages": [
+      "English"
+    ],
+    "languageCodes": [
+      "en"
+    ],
+    "certificationLevel": null,
+    "certificationLabel": "Verification needed",
+    "approvalStatus": "APPROVED",
+    "sourceType": "csv-import",
+    "searchKeywords": [
+      "United States",
+      "WIAL USA",
+      "North America",
+      "English"
+    ],
+    "searchDocument": "Claire Raynes WIAL directory coach Public coach record imported from the WIAL directory export for United States. Detailed biography and certification level need verification from source systems. United States WIAL USA English North America",
+    "dataCompleteness": 0.5,
+    "sourceGapFlags": [
+      "missing_bio",
+      "missing_phone",
+      "missing_email",
+      "missing_certification_sync",
+      "missing_verified_specializations"
+    ]
+  },
+  {
+    "id": "coach-060",
+    "name": "colette cahalane",
+    "headline": "WIAL directory coach",
+    "company": null,
+    "locationText": "Ballinteer Ave D16 P6k7, Ireland",
+    "countrySlug": "ireland",
+    "countryName": "Ireland",
+    "citySlug": "ballinteer-ave-d16-p6k7",
+    "cityName": "Ballinteer Ave D16 P6k7",
+    "chapterSlug": "ireland",
+    "chapterName": "WIAL Ireland",
+    "region": "Europe",
+    "profileUrl": "https://directory.wial.org/ireland/ballinteer-ave-d16-p6k7/coaches/colette-cahalane",
+    "externalUrl": "https://directory.wial.org/ireland/ballinteer-ave-d16-p6k7/coaches/colette-cahalane",
+    "phone": "+353864004757",
+    "email": null,
+    "website": null,
+    "about": "Public coach record imported from the WIAL directory export for Ireland. Detailed biography and certification level need verification from source systems.",
+    "languages": [
+      "English"
+    ],
+    "languageCodes": [
+      "en"
+    ],
+    "certificationLevel": null,
+    "certificationLabel": "Verification needed",
+    "approvalStatus": "APPROVED",
+    "sourceType": "csv-import",
+    "searchKeywords": [
+      "Ireland",
+      "WIAL Ireland",
+      "Europe",
+      "English",
+      "Ballinteer Ave D16 P6k7"
+    ],
+    "searchDocument": "colette cahalane WIAL directory coach Public coach record imported from the WIAL directory export for Ireland. Detailed biography and certification level need verification from source systems. Ireland Ballinteer Ave D16 P6k7 WIAL Ireland English Europe",
+    "dataCompleteness": 0.6,
+    "sourceGapFlags": [
+      "missing_bio",
+      "missing_email",
+      "missing_certification_sync",
+      "missing_verified_specializations"
+    ]
+  },
+  {
+    "id": "coach-061",
+    "name": "Colin Yeow",
+    "headline": "WIAL directory coach",
+    "company": null,
+    "locationText": "Singapore, Singapore",
+    "countrySlug": "singapore",
+    "countryName": "Singapore",
+    "citySlug": "singapore",
+    "cityName": "Singapore",
+    "chapterSlug": "singapore",
+    "chapterName": "WIAL Singapore",
+    "region": "Asia-Pacific",
+    "profileUrl": "https://directory.wial.org/singapore/singapore/coaches/colin-yeow",
+    "externalUrl": "https://directory.wial.org/singapore/singapore/coaches/colin-yeow",
+    "phone": null,
+    "email": null,
+    "website": null,
+    "about": "Public coach record imported from the WIAL directory export for Singapore. Detailed biography and certification level need verification from source systems.",
+    "languages": [
+      "English",
+      "Mandarin"
+    ],
+    "languageCodes": [
+      "en",
+      "zh"
+    ],
+    "certificationLevel": null,
+    "certificationLabel": "Verification needed",
+    "approvalStatus": "APPROVED",
+    "sourceType": "csv-import",
+    "searchKeywords": [
+      "Singapore",
+      "WIAL Singapore",
+      "Asia-Pacific",
+      "English",
+      "Mandarin",
+      "Singapore"
+    ],
+    "searchDocument": "Colin Yeow WIAL directory coach Public coach record imported from the WIAL directory export for Singapore. Detailed biography and certification level need verification from source systems. Singapore Singapore WIAL Singapore English Mandarin Asia-Pacific",
+    "dataCompleteness": 0.5,
+    "sourceGapFlags": [
+      "missing_bio",
+      "missing_phone",
+      "missing_email",
+      "missing_certification_sync",
+      "missing_verified_specializations"
+    ]
+  },
+  {
+    "id": "coach-062",
+    "name": "Connie Tsai",
+    "headline": "WIAL directory coach",
+    "company": null,
+    "locationText": "Taiwan",
+    "countrySlug": "taiwan",
+    "countryName": "Taiwan",
+    "citySlug": null,
+    "cityName": null,
+    "chapterSlug": "taiwan",
+    "chapterName": "WIAL Taiwan",
+    "region": "Asia-Pacific",
+    "profileUrl": "https://directory.wial.org/taiwan/coaches/connie-tsai",
+    "externalUrl": "https://directory.wial.org/taiwan/coaches/connie-tsai",
+    "phone": null,
+    "email": null,
+    "website": null,
+    "about": "Public coach record imported from the WIAL directory export for Taiwan. Detailed biography and certification level need verification from source systems.",
+    "languages": [
+      "Mandarin",
+      "English"
+    ],
+    "languageCodes": [
+      "zh",
+      "en"
+    ],
+    "certificationLevel": null,
+    "certificationLabel": "Verification needed",
+    "approvalStatus": "APPROVED",
+    "sourceType": "csv-import",
+    "searchKeywords": [
+      "Taiwan",
+      "WIAL Taiwan",
+      "Asia-Pacific",
+      "Mandarin",
+      "English"
+    ],
+    "searchDocument": "Connie Tsai WIAL directory coach Public coach record imported from the WIAL directory export for Taiwan. Detailed biography and certification level need verification from source systems. Taiwan WIAL Taiwan Mandarin English Asia-Pacific",
+    "dataCompleteness": 0.5,
+    "sourceGapFlags": [
+      "missing_bio",
+      "missing_phone",
+      "missing_email",
+      "missing_certification_sync",
+      "missing_verified_specializations"
+    ]
+  },
+  {
+    "id": "coach-063",
+    "name": "Craig Filipkowski",
+    "headline": "WIAL directory coach",
+    "company": null,
+    "locationText": "Cincinnati, United States",
+    "countrySlug": "united-states",
+    "countryName": "United States",
+    "citySlug": "cincinnati",
+    "cityName": "Cincinnati",
+    "chapterSlug": "united-states",
+    "chapterName": "WIAL USA",
+    "region": "North America",
+    "profileUrl": "https://directory.wial.org/united-states/cincinnati/coaches/craig-filipkowski",
+    "externalUrl": "https://directory.wial.org/united-states/cincinnati/coaches/craig-filipkowski",
+    "phone": "513-520-9639",
+    "email": "filipkowski.craig@gmail.com",
+    "website": null,
+    "about": "Public coach record imported from the WIAL directory export for United States. Detailed biography and certification level need verification from source systems.",
+    "languages": [
+      "English"
+    ],
+    "languageCodes": [
+      "en"
+    ],
+    "certificationLevel": null,
+    "certificationLabel": "Verification needed",
+    "approvalStatus": "APPROVED",
+    "sourceType": "csv-import",
+    "searchKeywords": [
+      "United States",
+      "WIAL USA",
+      "North America",
+      "English",
+      "Cincinnati"
+    ],
+    "searchDocument": "Craig Filipkowski WIAL directory coach Public coach record imported from the WIAL directory export for United States. Detailed biography and certification level need verification from source systems. United States Cincinnati WIAL USA English North America",
+    "dataCompleteness": 0.7,
+    "sourceGapFlags": [
+      "missing_bio",
+      "missing_certification_sync",
+      "missing_verified_specializations"
+    ]
+  },
+  {
+    "id": "coach-064",
+    "name": "Craig Senecal",
+    "headline": "WIAL directory coach",
+    "company": null,
+    "locationText": "New York, United States",
+    "countrySlug": "united-states",
+    "countryName": "United States",
+    "citySlug": "new-york",
+    "cityName": "New York",
+    "chapterSlug": "united-states",
+    "chapterName": "WIAL USA",
+    "region": "North America",
+    "profileUrl": "https://directory.wial.org/united-states/new-york/coaches/craig-senecal",
+    "externalUrl": "https://directory.wial.org/united-states/new-york/coaches/craig-senecal",
+    "phone": "212-592-7313",
+    "email": null,
+    "website": null,
+    "about": "Public coach record imported from the WIAL directory export for United States. Detailed biography and certification level need verification from source systems.",
+    "languages": [
+      "English"
+    ],
+    "languageCodes": [
+      "en"
+    ],
+    "certificationLevel": null,
+    "certificationLabel": "Verification needed",
+    "approvalStatus": "APPROVED",
+    "sourceType": "csv-import",
+    "searchKeywords": [
+      "United States",
+      "WIAL USA",
+      "North America",
+      "English",
+      "New York"
+    ],
+    "searchDocument": "Craig Senecal WIAL directory coach Public coach record imported from the WIAL directory export for United States. Detailed biography and certification level need verification from source systems. United States New York WIAL USA English North America",
+    "dataCompleteness": 0.6,
+    "sourceGapFlags": [
+      "missing_bio",
+      "missing_email",
+      "missing_certification_sync",
+      "missing_verified_specializations"
+    ]
+  },
+  {
+    "id": "coach-065",
+    "name": "Cristina Alafriz",
+    "headline": "WIAL directory coach",
+    "company": null,
+    "locationText": "Philippines",
+    "countrySlug": "philippines",
+    "countryName": "Philippines",
+    "citySlug": null,
+    "cityName": null,
+    "chapterSlug": "philippines",
+    "chapterName": "WIAL Philippines",
+    "region": "Asia-Pacific",
+    "profileUrl": "https://directory.wial.org/philippines/coaches/cristina-alafriz",
+    "externalUrl": "https://directory.wial.org/philippines/coaches/cristina-alafriz",
+    "phone": null,
+    "email": null,
+    "website": null,
+    "about": "Public coach record imported from the WIAL directory export for Philippines. Detailed biography and certification level need verification from source systems.",
+    "languages": [
+      "Filipino",
+      "English"
+    ],
+    "languageCodes": [
+      "fil",
+      "en"
+    ],
+    "certificationLevel": null,
+    "certificationLabel": "Verification needed",
+    "approvalStatus": "APPROVED",
+    "sourceType": "csv-import",
+    "searchKeywords": [
+      "Philippines",
+      "WIAL Philippines",
+      "Asia-Pacific",
+      "Filipino",
+      "English"
+    ],
+    "searchDocument": "Cristina Alafriz WIAL directory coach Public coach record imported from the WIAL directory export for Philippines. Detailed biography and certification level need verification from source systems. Philippines WIAL Philippines Filipino English Asia-Pacific",
+    "dataCompleteness": 0.5,
+    "sourceGapFlags": [
+      "missing_bio",
+      "missing_phone",
+      "missing_email",
+      "missing_certification_sync",
+      "missing_verified_specializations"
+    ]
+  },
+  {
+    "id": "coach-066",
+    "name": "Cui Chenyuan",
+    "headline": "WIAL directory coach",
+    "company": null,
+    "locationText": "China",
+    "countrySlug": "china",
+    "countryName": "China",
+    "citySlug": null,
+    "cityName": null,
+    "chapterSlug": "china",
+    "chapterName": "WIAL China",
+    "region": "Asia-Pacific",
+    "profileUrl": "https://directory.wial.org/china/coaches/cui-chenyuan",
+    "externalUrl": "https://directory.wial.org/china/coaches/cui-chenyuan",
+    "phone": null,
+    "email": null,
+    "website": null,
+    "about": "Public coach record imported from the WIAL directory export for China. Detailed biography and certification level need verification from source systems.",
+    "languages": [
+      "Mandarin",
+      "English"
+    ],
+    "languageCodes": [
+      "zh",
+      "en"
+    ],
+    "certificationLevel": null,
+    "certificationLabel": "Verification needed",
+    "approvalStatus": "APPROVED",
+    "sourceType": "csv-import",
+    "searchKeywords": [
+      "China",
+      "WIAL China",
+      "Asia-Pacific",
+      "Mandarin",
+      "English"
+    ],
+    "searchDocument": "Cui Chenyuan WIAL directory coach Public coach record imported from the WIAL directory export for China. Detailed biography and certification level need verification from source systems. China WIAL China Mandarin English Asia-Pacific",
+    "dataCompleteness": 0.5,
+    "sourceGapFlags": [
+      "missing_bio",
+      "missing_phone",
+      "missing_email",
+      "missing_certification_sync",
+      "missing_verified_specializations"
+    ]
+  },
+  {
+    "id": "coach-067",
+    "name": "Dale Forkner",
+    "headline": "WIAL directory coach",
+    "company": null,
+    "locationText": "Portland, United States",
+    "countrySlug": "united-states",
+    "countryName": "United States",
+    "citySlug": "portland",
+    "cityName": "Portland",
+    "chapterSlug": "united-states",
+    "chapterName": "WIAL USA",
+    "region": "North America",
+    "profileUrl": "https://directory.wial.org/united-states/portland/coaches/dale-forkner",
+    "externalUrl": "https://directory.wial.org/united-states/portland/coaches/dale-forkner",
+    "phone": "5036767291",
+    "email": null,
+    "website": null,
+    "about": "Public coach record imported from the WIAL directory export for United States. Detailed biography and certification level need verification from source systems.",
+    "languages": [
+      "English"
+    ],
+    "languageCodes": [
+      "en"
+    ],
+    "certificationLevel": null,
+    "certificationLabel": "Verification needed",
+    "approvalStatus": "APPROVED",
+    "sourceType": "csv-import",
+    "searchKeywords": [
+      "United States",
+      "WIAL USA",
+      "North America",
+      "English",
+      "Portland"
+    ],
+    "searchDocument": "Dale Forkner WIAL directory coach Public coach record imported from the WIAL directory export for United States. Detailed biography and certification level need verification from source systems. United States Portland WIAL USA English North America",
+    "dataCompleteness": 0.6,
+    "sourceGapFlags": [
+      "missing_bio",
+      "missing_email",
+      "missing_certification_sync",
+      "missing_verified_specializations"
+    ]
+  },
+  {
+    "id": "coach-068",
+    "name": "DAM THI MINH HANH",
+    "headline": "WIAL directory coach",
+    "company": null,
+    "locationText": "Ha Noi, Vietnam",
+    "countrySlug": "vietnam",
+    "countryName": "Vietnam",
+    "citySlug": "ha-noi",
+    "cityName": "Ha Noi",
+    "chapterSlug": "vietnam",
+    "chapterName": "WIAL Vietnam",
+    "region": "Asia-Pacific",
+    "profileUrl": "https://directory.wial.org/vietnam/ha-noi/coaches/dam-thi-minh-hanh",
+    "externalUrl": "https://directory.wial.org/vietnam/ha-noi/coaches/dam-thi-minh-hanh",
+    "phone": null,
+    "email": null,
+    "website": null,
+    "about": "Public coach record imported from the WIAL directory export for Vietnam. Detailed biography and certification level need verification from source systems.",
+    "languages": [
+      "Vietnamese",
+      "English"
+    ],
+    "languageCodes": [
+      "vi",
+      "en"
+    ],
+    "certificationLevel": null,
+    "certificationLabel": "Verification needed",
+    "approvalStatus": "APPROVED",
+    "sourceType": "csv-import",
+    "searchKeywords": [
+      "Vietnam",
+      "WIAL Vietnam",
+      "Asia-Pacific",
+      "Vietnamese",
+      "English",
+      "Ha Noi"
+    ],
+    "searchDocument": "DAM THI MINH HANH WIAL directory coach Public coach record imported from the WIAL directory export for Vietnam. Detailed biography and certification level need verification from source systems. Vietnam Ha Noi WIAL Vietnam Vietnamese English Asia-Pacific",
+    "dataCompleteness": 0.5,
+    "sourceGapFlags": [
+      "missing_bio",
+      "missing_phone",
+      "missing_email",
+      "missing_certification_sync",
+      "missing_verified_specializations"
+    ]
+  },
+  {
+    "id": "coach-069",
+    "name": "Daniel Belet",
+    "headline": "WIAL directory coach",
+    "company": null,
+    "locationText": "La BrèDe, France",
+    "countrySlug": "france",
+    "countryName": "France",
+    "citySlug": "la-brède",
+    "cityName": "La BrèDe",
+    "chapterSlug": "france",
+    "chapterName": "WIAL France",
+    "region": "Europe",
+    "profileUrl": "https://directory.wial.org/france/la-brède/coaches/daniel-belet",
+    "externalUrl": "https://directory.wial.org/france/la-brède/coaches/daniel-belet",
+    "phone": "33-556203963",
+    "email": null,
+    "website": null,
+    "about": "Public coach record imported from the WIAL directory export for France. Detailed biography and certification level need verification from source systems.",
+    "languages": [
+      "French",
+      "English"
+    ],
+    "languageCodes": [
+      "fr",
+      "en"
+    ],
+    "certificationLevel": null,
+    "certificationLabel": "Verification needed",
+    "approvalStatus": "APPROVED",
+    "sourceType": "csv-import",
+    "searchKeywords": [
+      "France",
+      "WIAL France",
+      "Europe",
+      "French",
+      "English",
+      "La BrèDe"
+    ],
+    "searchDocument": "Daniel Belet WIAL directory coach Public coach record imported from the WIAL directory export for France. Detailed biography and certification level need verification from source systems. France La BrèDe WIAL France French English Europe",
+    "dataCompleteness": 0.6,
+    "sourceGapFlags": [
+      "missing_bio",
+      "missing_email",
+      "missing_certification_sync",
+      "missing_verified_specializations"
+    ]
+  },
+  {
+    "id": "coach-070",
+    "name": "Daniel, Kwan Leong Lee",
+    "headline": "WIAL directory coach",
+    "company": null,
+    "locationText": "Malaysia",
+    "countrySlug": "malaysia",
+    "countryName": "Malaysia",
+    "citySlug": null,
+    "cityName": null,
+    "chapterSlug": "malaysia",
+    "chapterName": "WIAL Malaysia",
+    "region": "Asia-Pacific",
+    "profileUrl": "https://directory.wial.org/malaysia/coaches/daniel-kwan-leong-lee",
+    "externalUrl": "https://directory.wial.org/malaysia/coaches/daniel-kwan-leong-lee",
+    "phone": null,
+    "email": null,
+    "website": null,
+    "about": "Public coach record imported from the WIAL directory export for Malaysia. Detailed biography and certification level need verification from source systems.",
+    "languages": [
+      "Malay",
+      "English"
+    ],
+    "languageCodes": [
+      "ms",
+      "en"
+    ],
+    "certificationLevel": null,
+    "certificationLabel": "Verification needed",
+    "approvalStatus": "APPROVED",
+    "sourceType": "csv-import",
+    "searchKeywords": [
+      "Malaysia",
+      "WIAL Malaysia",
+      "Asia-Pacific",
+      "Malay",
+      "English"
+    ],
+    "searchDocument": "Daniel, Kwan Leong Lee WIAL directory coach Public coach record imported from the WIAL directory export for Malaysia. Detailed biography and certification level need verification from source systems. Malaysia WIAL Malaysia Malay English Asia-Pacific",
+    "dataCompleteness": 0.5,
+    "sourceGapFlags": [
+      "missing_bio",
+      "missing_phone",
+      "missing_email",
+      "missing_certification_sync",
+      "missing_verified_specializations"
+    ]
+  },
+  {
+    "id": "coach-071",
+    "name": "Danielle de Nóbrega Tiso",
+    "headline": "WIAL directory coach",
+    "company": null,
+    "locationText": "SãO Paulo, Brazil",
+    "countrySlug": "brazil",
+    "countryName": "Brazil",
+    "citySlug": "são-paulo",
+    "cityName": "SãO Paulo",
+    "chapterSlug": "brazil",
+    "chapterName": "WIAL Brazil",
+    "region": "South America",
+    "profileUrl": "https://directory.wial.org/brazil/são-paulo/coaches/danielle-de-nóbrega-tiso",
+    "externalUrl": "https://directory.wial.org/brazil/são-paulo/coaches/danielle-de-nóbrega-tiso",
+    "phone": "04728-160",
+    "email": null,
+    "website": null,
+    "about": "Public coach record imported from the WIAL directory export for Brazil. Detailed biography and certification level need verification from source systems.",
+    "languages": [
+      "Portuguese"
+    ],
+    "languageCodes": [
+      "pt"
+    ],
+    "certificationLevel": null,
+    "certificationLabel": "Verification needed",
+    "approvalStatus": "APPROVED",
+    "sourceType": "csv-import",
+    "searchKeywords": [
+      "Brazil",
+      "WIAL Brazil",
+      "South America",
+      "Portuguese",
+      "SãO Paulo"
+    ],
+    "searchDocument": "Danielle de Nóbrega Tiso WIAL directory coach Public coach record imported from the WIAL directory export for Brazil. Detailed biography and certification level need verification from source systems. Brazil SãO Paulo WIAL Brazil Portuguese South America",
+    "dataCompleteness": 0.6,
+    "sourceGapFlags": [
+      "missing_bio",
+      "missing_email",
+      "missing_certification_sync",
+      "missing_verified_specializations"
+    ]
+  },
+  {
+    "id": "coach-072",
+    "name": "Danny de Ruiter",
+    "headline": "WIAL directory coach",
+    "company": null,
+    "locationText": "Uithoorn, Netherlands",
+    "countrySlug": "netherlands",
+    "countryName": "Netherlands",
+    "citySlug": "uithoorn",
+    "cityName": "Uithoorn",
+    "chapterSlug": "netherlands",
+    "chapterName": "WIAL Netherlands",
+    "region": "Europe",
+    "profileUrl": "https://directory.wial.org/netherlands/uithoorn/coaches/danny-de-ruiter",
+    "externalUrl": "https://directory.wial.org/netherlands/uithoorn/coaches/danny-de-ruiter",
+    "phone": "026-7071420",
+    "email": null,
+    "website": null,
+    "about": "Public coach record imported from the WIAL directory export for Netherlands. Detailed biography and certification level need verification from source systems.",
+    "languages": [
+      "Dutch",
+      "English"
+    ],
+    "languageCodes": [
+      "nl",
+      "en"
+    ],
+    "certificationLevel": null,
+    "certificationLabel": "Verification needed",
+    "approvalStatus": "APPROVED",
+    "sourceType": "csv-import",
+    "searchKeywords": [
+      "Netherlands",
+      "WIAL Netherlands",
+      "Europe",
+      "Dutch",
+      "English",
+      "Uithoorn"
+    ],
+    "searchDocument": "Danny de Ruiter WIAL directory coach Public coach record imported from the WIAL directory export for Netherlands. Detailed biography and certification level need verification from source systems. Netherlands Uithoorn WIAL Netherlands Dutch English Europe",
+    "dataCompleteness": 0.6,
+    "sourceGapFlags": [
+      "missing_bio",
+      "missing_email",
+      "missing_certification_sync",
+      "missing_verified_specializations"
+    ]
+  },
+  {
+    "id": "coach-073",
+    "name": "Dao Chan Phuong",
+    "headline": "WIAL directory coach",
+    "company": null,
+    "locationText": "Vietnam",
+    "countrySlug": "vietnam",
+    "countryName": "Vietnam",
+    "citySlug": null,
+    "cityName": null,
+    "chapterSlug": "vietnam",
+    "chapterName": "WIAL Vietnam",
+    "region": "Asia-Pacific",
+    "profileUrl": "https://directory.wial.org/vietnam/coaches/dao-chan-phuong",
+    "externalUrl": "https://directory.wial.org/vietnam/coaches/dao-chan-phuong",
+    "phone": null,
+    "email": null,
+    "website": null,
+    "about": "Public coach record imported from the WIAL directory export for Vietnam. Detailed biography and certification level need verification from source systems.",
+    "languages": [
+      "Vietnamese",
+      "English"
+    ],
+    "languageCodes": [
+      "vi",
+      "en"
+    ],
+    "certificationLevel": null,
+    "certificationLabel": "Verification needed",
+    "approvalStatus": "APPROVED",
+    "sourceType": "csv-import",
+    "searchKeywords": [
+      "Vietnam",
+      "WIAL Vietnam",
+      "Asia-Pacific",
+      "Vietnamese",
+      "English"
+    ],
+    "searchDocument": "Dao Chan Phuong WIAL directory coach Public coach record imported from the WIAL directory export for Vietnam. Detailed biography and certification level need verification from source systems. Vietnam WIAL Vietnam Vietnamese English Asia-Pacific",
+    "dataCompleteness": 0.5,
+    "sourceGapFlags": [
+      "missing_bio",
+      "missing_phone",
+      "missing_email",
+      "missing_certification_sync",
+      "missing_verified_specializations"
+    ]
+  },
+  {
+    "id": "coach-074",
+    "name": "DAO HANH GIANG",
+    "headline": "WIAL directory coach",
+    "company": null,
+    "locationText": "Vietnam",
+    "countrySlug": "vietnam",
+    "countryName": "Vietnam",
+    "citySlug": null,
+    "cityName": null,
+    "chapterSlug": "vietnam",
+    "chapterName": "WIAL Vietnam",
+    "region": "Asia-Pacific",
+    "profileUrl": "https://directory.wial.org/vietnam/coaches/dao-hanh-giang",
+    "externalUrl": "https://directory.wial.org/vietnam/coaches/dao-hanh-giang",
+    "phone": null,
+    "email": null,
+    "website": null,
+    "about": "Public coach record imported from the WIAL directory export for Vietnam. Detailed biography and certification level need verification from source systems.",
+    "languages": [
+      "Vietnamese",
+      "English"
+    ],
+    "languageCodes": [
+      "vi",
+      "en"
+    ],
+    "certificationLevel": null,
+    "certificationLabel": "Verification needed",
+    "approvalStatus": "APPROVED",
+    "sourceType": "csv-import",
+    "searchKeywords": [
+      "Vietnam",
+      "WIAL Vietnam",
+      "Asia-Pacific",
+      "Vietnamese",
+      "English"
+    ],
+    "searchDocument": "DAO HANH GIANG WIAL directory coach Public coach record imported from the WIAL directory export for Vietnam. Detailed biography and certification level need verification from source systems. Vietnam WIAL Vietnam Vietnamese English Asia-Pacific",
+    "dataCompleteness": 0.5,
+    "sourceGapFlags": [
+      "missing_bio",
+      "missing_phone",
+      "missing_email",
+      "missing_certification_sync",
+      "missing_verified_specializations"
+    ]
+  },
+  {
+    "id": "coach-075",
+    "name": "DAVID RUDE",
+    "headline": "WIAL directory coach",
+    "company": null,
+    "locationText": "Springboro, United States",
+    "countrySlug": "united-states",
+    "countryName": "United States",
+    "citySlug": "springboro",
+    "cityName": "Springboro",
+    "chapterSlug": "united-states",
+    "chapterName": "WIAL USA",
+    "region": "North America",
+    "profileUrl": "https://directory.wial.org/united-states/springboro/coaches/david-rude",
+    "externalUrl": "https://directory.wial.org/united-states/springboro/coaches/david-rude",
+    "phone": "45066-9823",
+    "email": null,
+    "website": null,
+    "about": "Public coach record imported from the WIAL directory export for United States. Detailed biography and certification level need verification from source systems.",
+    "languages": [
+      "English"
+    ],
+    "languageCodes": [
+      "en"
+    ],
+    "certificationLevel": null,
+    "certificationLabel": "Verification needed",
+    "approvalStatus": "APPROVED",
+    "sourceType": "csv-import",
+    "searchKeywords": [
+      "United States",
+      "WIAL USA",
+      "North America",
+      "English",
+      "Springboro"
+    ],
+    "searchDocument": "DAVID RUDE WIAL directory coach Public coach record imported from the WIAL directory export for United States. Detailed biography and certification level need verification from source systems. United States Springboro WIAL USA English North America",
+    "dataCompleteness": 0.6,
+    "sourceGapFlags": [
+      "missing_bio",
+      "missing_email",
+      "missing_certification_sync",
+      "missing_verified_specializations"
+    ]
+  },
+  {
+    "id": "coach-076",
+    "name": "David Sacks",
+    "headline": "WIAL directory coach",
+    "company": null,
+    "locationText": "United States",
+    "countrySlug": "united-states",
+    "countryName": "United States",
+    "citySlug": null,
+    "cityName": null,
+    "chapterSlug": "united-states",
+    "chapterName": "WIAL USA",
+    "region": "North America",
+    "profileUrl": "https://directory.wial.org/united-states/coaches/david-sacks",
+    "externalUrl": "https://directory.wial.org/united-states/coaches/david-sacks",
+    "phone": null,
+    "email": null,
+    "website": null,
+    "about": "Public coach record imported from the WIAL directory export for United States. Detailed biography and certification level need verification from source systems.",
+    "languages": [
+      "English"
+    ],
+    "languageCodes": [
+      "en"
+    ],
+    "certificationLevel": null,
+    "certificationLabel": "Verification needed",
+    "approvalStatus": "APPROVED",
+    "sourceType": "csv-import",
+    "searchKeywords": [
+      "United States",
+      "WIAL USA",
+      "North America",
+      "English"
+    ],
+    "searchDocument": "David Sacks WIAL directory coach Public coach record imported from the WIAL directory export for United States. Detailed biography and certification level need verification from source systems. United States WIAL USA English North America",
+    "dataCompleteness": 0.5,
+    "sourceGapFlags": [
+      "missing_bio",
+      "missing_phone",
+      "missing_email",
+      "missing_certification_sync",
+      "missing_verified_specializations"
+    ]
+  },
+  {
+    "id": "coach-077",
+    "name": "David Troupe",
+    "headline": "WIAL directory coach",
+    "company": null,
+    "locationText": "Snohomish, United States",
+    "countrySlug": "united-states",
+    "countryName": "United States",
+    "citySlug": "snohomish",
+    "cityName": "Snohomish",
+    "chapterSlug": "united-states",
+    "chapterName": "WIAL USA",
+    "region": "North America",
+    "profileUrl": "https://directory.wial.org/united-states/snohomish/coaches/david-troupe",
+    "externalUrl": "https://directory.wial.org/united-states/snohomish/coaches/david-troupe",
+    "phone": "425-876-5184",
+    "email": null,
+    "website": null,
+    "about": "Public coach record imported from the WIAL directory export for United States. Detailed biography and certification level need verification from source systems.",
+    "languages": [
+      "English"
+    ],
+    "languageCodes": [
+      "en"
+    ],
+    "certificationLevel": null,
+    "certificationLabel": "Verification needed",
+    "approvalStatus": "APPROVED",
+    "sourceType": "csv-import",
+    "searchKeywords": [
+      "United States",
+      "WIAL USA",
+      "North America",
+      "English",
+      "Snohomish"
+    ],
+    "searchDocument": "David Troupe WIAL directory coach Public coach record imported from the WIAL directory export for United States. Detailed biography and certification level need verification from source systems. United States Snohomish WIAL USA English North America",
+    "dataCompleteness": 0.6,
+    "sourceGapFlags": [
+      "missing_bio",
+      "missing_email",
+      "missing_certification_sync",
+      "missing_verified_specializations"
+    ]
+  },
+  {
+    "id": "coach-078",
+    "name": "Debra Clary",
+    "headline": "WIAL directory coach",
+    "company": null,
+    "locationText": "United States",
+    "countrySlug": "united-states",
+    "countryName": "United States",
+    "citySlug": null,
+    "cityName": null,
+    "chapterSlug": "united-states",
+    "chapterName": "WIAL USA",
+    "region": "North America",
+    "profileUrl": "https://directory.wial.org/united-states/coaches/debra-clary",
+    "externalUrl": "https://directory.wial.org/united-states/coaches/debra-clary",
+    "phone": null,
+    "email": null,
+    "website": null,
+    "about": "Public coach record imported from the WIAL directory export for United States. Detailed biography and certification level need verification from source systems.",
+    "languages": [
+      "English"
+    ],
+    "languageCodes": [
+      "en"
+    ],
+    "certificationLevel": null,
+    "certificationLabel": "Verification needed",
+    "approvalStatus": "APPROVED",
+    "sourceType": "csv-import",
+    "searchKeywords": [
+      "United States",
+      "WIAL USA",
+      "North America",
+      "English"
+    ],
+    "searchDocument": "Debra Clary WIAL directory coach Public coach record imported from the WIAL directory export for United States. Detailed biography and certification level need verification from source systems. United States WIAL USA English North America",
+    "dataCompleteness": 0.5,
+    "sourceGapFlags": [
+      "missing_bio",
+      "missing_phone",
+      "missing_email",
+      "missing_certification_sync",
+      "missing_verified_specializations"
+    ]
+  },
+  {
+    "id": "coach-079",
+    "name": "Denise Fernandes dos Santos Silva",
+    "headline": "WIAL directory coach",
+    "company": null,
+    "locationText": "Mogi Das Cruzes SãO Carlos Abc Ou SãO Paulo, Brazil",
+    "countrySlug": "brazil",
+    "countryName": "Brazil",
+    "citySlug": "mogi-das-cruzes-são-carlos-abc-ou-são-paulo",
+    "cityName": "Mogi Das Cruzes SãO Carlos Abc Ou SãO Paulo",
+    "chapterSlug": "brazil",
+    "chapterName": "WIAL Brazil",
+    "region": "South America",
+    "profileUrl": "https://directory.wial.org/brazil/mogi-das-cruzes-são-carlos-abc-ou-são-paulo/coaches/denise-fernandes-dos-santos-silva",
+    "externalUrl": "https://directory.wial.org/brazil/mogi-das-cruzes-são-carlos-abc-ou-são-paulo/coaches/denise-fernandes-dos-santos-silva",
+    "phone": null,
+    "email": null,
+    "website": null,
+    "about": "Public coach record imported from the WIAL directory export for Brazil. Detailed biography and certification level need verification from source systems.",
+    "languages": [
+      "Portuguese"
+    ],
+    "languageCodes": [
+      "pt"
+    ],
+    "certificationLevel": null,
+    "certificationLabel": "Verification needed",
+    "approvalStatus": "APPROVED",
+    "sourceType": "csv-import",
+    "searchKeywords": [
+      "Brazil",
+      "WIAL Brazil",
+      "South America",
+      "Portuguese",
+      "Mogi Das Cruzes SãO Carlos Abc Ou SãO Paulo"
+    ],
+    "searchDocument": "Denise Fernandes dos Santos Silva WIAL directory coach Public coach record imported from the WIAL directory export for Brazil. Detailed biography and certification level need verification from source systems. Brazil Mogi Das Cruzes SãO Carlos Abc Ou SãO Paulo WIAL Brazil Portuguese South America",
+    "dataCompleteness": 0.5,
+    "sourceGapFlags": [
+      "missing_bio",
+      "missing_phone",
+      "missing_email",
+      "missing_certification_sync",
+      "missing_verified_specializations"
+    ]
+  },
+  {
+    "id": "coach-080",
+    "name": "Denise Lessa",
+    "headline": "WIAL directory coach",
+    "company": null,
+    "locationText": "Brazil",
+    "countrySlug": "brazil",
+    "countryName": "Brazil",
+    "citySlug": null,
+    "cityName": null,
+    "chapterSlug": "brazil",
+    "chapterName": "WIAL Brazil",
+    "region": "South America",
+    "profileUrl": "https://directory.wial.org/brazil/coaches/denise-lessa",
+    "externalUrl": "https://directory.wial.org/brazil/coaches/denise-lessa",
+    "phone": null,
+    "email": null,
+    "website": null,
+    "about": "Public coach record imported from the WIAL directory export for Brazil. Detailed biography and certification level need verification from source systems.",
+    "languages": [
+      "Portuguese"
+    ],
+    "languageCodes": [
+      "pt"
+    ],
+    "certificationLevel": null,
+    "certificationLabel": "Verification needed",
+    "approvalStatus": "APPROVED",
+    "sourceType": "csv-import",
+    "searchKeywords": [
+      "Brazil",
+      "WIAL Brazil",
+      "South America",
+      "Portuguese"
+    ],
+    "searchDocument": "Denise Lessa WIAL directory coach Public coach record imported from the WIAL directory export for Brazil. Detailed biography and certification level need verification from source systems. Brazil WIAL Brazil Portuguese South America",
+    "dataCompleteness": 0.5,
+    "sourceGapFlags": [
+      "missing_bio",
+      "missing_phone",
+      "missing_email",
+      "missing_certification_sync",
+      "missing_verified_specializations"
+    ]
+  },
+  {
+    "id": "coach-081",
+    "name": "Derek Laout",
+    "headline": "WIAL directory coach",
+    "company": null,
+    "locationText": "Netherlands",
+    "countrySlug": "netherlands",
+    "countryName": "Netherlands",
+    "citySlug": null,
+    "cityName": null,
+    "chapterSlug": "netherlands",
+    "chapterName": "WIAL Netherlands",
+    "region": "Europe",
+    "profileUrl": "https://directory.wial.org/netherlands/coaches/derek-laout",
+    "externalUrl": "https://directory.wial.org/netherlands/coaches/derek-laout",
+    "phone": null,
+    "email": null,
+    "website": null,
+    "about": "Public coach record imported from the WIAL directory export for Netherlands. Detailed biography and certification level need verification from source systems.",
+    "languages": [
+      "Dutch",
+      "English"
+    ],
+    "languageCodes": [
+      "nl",
+      "en"
+    ],
+    "certificationLevel": null,
+    "certificationLabel": "Verification needed",
+    "approvalStatus": "APPROVED",
+    "sourceType": "csv-import",
+    "searchKeywords": [
+      "Netherlands",
+      "WIAL Netherlands",
+      "Europe",
+      "Dutch",
+      "English"
+    ],
+    "searchDocument": "Derek Laout WIAL directory coach Public coach record imported from the WIAL directory export for Netherlands. Detailed biography and certification level need verification from source systems. Netherlands WIAL Netherlands Dutch English Europe",
+    "dataCompleteness": 0.5,
+    "sourceGapFlags": [
+      "missing_bio",
+      "missing_phone",
+      "missing_email",
+      "missing_certification_sync",
+      "missing_verified_specializations"
+    ]
+  },
+  {
+    "id": "coach-082",
+    "name": "Dhiva Krishanan",
+    "headline": "WIAL directory coach",
+    "company": null,
+    "locationText": "Malaysia",
+    "countrySlug": "malaysia",
+    "countryName": "Malaysia",
+    "citySlug": null,
+    "cityName": null,
+    "chapterSlug": "malaysia",
+    "chapterName": "WIAL Malaysia",
+    "region": "Asia-Pacific",
+    "profileUrl": "https://directory.wial.org/malaysia/coaches/dhiva-krishanan",
+    "externalUrl": "https://directory.wial.org/malaysia/coaches/dhiva-krishanan",
+    "phone": "+60126398453",
+    "email": null,
+    "website": null,
+    "about": "Public coach record imported from the WIAL directory export for Malaysia. Detailed biography and certification level need verification from source systems.",
+    "languages": [
+      "Malay",
+      "English"
+    ],
+    "languageCodes": [
+      "ms",
+      "en"
+    ],
+    "certificationLevel": null,
+    "certificationLabel": "Verification needed",
+    "approvalStatus": "APPROVED",
+    "sourceType": "csv-import",
+    "searchKeywords": [
+      "Malaysia",
+      "WIAL Malaysia",
+      "Asia-Pacific",
+      "Malay",
+      "English"
+    ],
+    "searchDocument": "Dhiva Krishanan WIAL directory coach Public coach record imported from the WIAL directory export for Malaysia. Detailed biography and certification level need verification from source systems. Malaysia WIAL Malaysia Malay English Asia-Pacific",
+    "dataCompleteness": 0.6,
+    "sourceGapFlags": [
+      "missing_bio",
+      "missing_email",
+      "missing_certification_sync",
+      "missing_verified_specializations"
+    ]
+  },
+  {
+    "id": "coach-083",
+    "name": "Dida Hermawan",
+    "headline": "WIAL directory coach",
+    "company": null,
+    "locationText": "Kuala Lumpur, Malaysia",
+    "countrySlug": "malaysia",
+    "countryName": "Malaysia",
+    "citySlug": "kuala-lumpur",
+    "cityName": "Kuala Lumpur",
+    "chapterSlug": "malaysia",
+    "chapterName": "WIAL Malaysia",
+    "region": "Asia-Pacific",
+    "profileUrl": "https://directory.wial.org/malaysia/kuala-lumpur/coaches/dida-hermawan",
+    "externalUrl": "https://directory.wial.org/malaysia/kuala-lumpur/coaches/dida-hermawan",
+    "phone": null,
+    "email": null,
+    "website": null,
+    "about": "Public coach record imported from the WIAL directory export for Malaysia. Detailed biography and certification level need verification from source systems.",
+    "languages": [
+      "Malay",
+      "English"
+    ],
+    "languageCodes": [
+      "ms",
+      "en"
+    ],
+    "certificationLevel": null,
+    "certificationLabel": "Verification needed",
+    "approvalStatus": "APPROVED",
+    "sourceType": "csv-import",
+    "searchKeywords": [
+      "Malaysia",
+      "WIAL Malaysia",
+      "Asia-Pacific",
+      "Malay",
+      "English",
+      "Kuala Lumpur"
+    ],
+    "searchDocument": "Dida Hermawan WIAL directory coach Public coach record imported from the WIAL directory export for Malaysia. Detailed biography and certification level need verification from source systems. Malaysia Kuala Lumpur WIAL Malaysia Malay English Asia-Pacific",
+    "dataCompleteness": 0.5,
+    "sourceGapFlags": [
+      "missing_bio",
+      "missing_phone",
+      "missing_email",
+      "missing_certification_sync",
+      "missing_verified_specializations"
+    ]
+  },
+  {
+    "id": "coach-084",
+    "name": "Djoke de Schiffart",
+    "headline": "WIAL directory coach",
+    "company": null,
+    "locationText": "Netherlands",
+    "countrySlug": "netherlands",
+    "countryName": "Netherlands",
+    "citySlug": null,
+    "cityName": null,
+    "chapterSlug": "netherlands",
+    "chapterName": "WIAL Netherlands",
+    "region": "Europe",
+    "profileUrl": "https://directory.wial.org/netherlands/coaches/djoke-de-schiffart",
+    "externalUrl": "https://directory.wial.org/netherlands/coaches/djoke-de-schiffart",
+    "phone": null,
+    "email": null,
+    "website": null,
+    "about": "Public coach record imported from the WIAL directory export for Netherlands. Detailed biography and certification level need verification from source systems.",
+    "languages": [
+      "Dutch",
+      "English"
+    ],
+    "languageCodes": [
+      "nl",
+      "en"
+    ],
+    "certificationLevel": null,
+    "certificationLabel": "Verification needed",
+    "approvalStatus": "APPROVED",
+    "sourceType": "csv-import",
+    "searchKeywords": [
+      "Netherlands",
+      "WIAL Netherlands",
+      "Europe",
+      "Dutch",
+      "English"
+    ],
+    "searchDocument": "Djoke de Schiffart WIAL directory coach Public coach record imported from the WIAL directory export for Netherlands. Detailed biography and certification level need verification from source systems. Netherlands WIAL Netherlands Dutch English Europe",
+    "dataCompleteness": 0.5,
+    "sourceGapFlags": [
+      "missing_bio",
+      "missing_phone",
+      "missing_email",
+      "missing_certification_sync",
+      "missing_verified_specializations"
+    ]
+  },
+  {
+    "id": "coach-085",
+    "name": "DO MINH LOC",
+    "headline": "WIAL directory coach",
+    "company": null,
+    "locationText": "Vietnam",
+    "countrySlug": "vietnam",
+    "countryName": "Vietnam",
+    "citySlug": null,
+    "cityName": null,
+    "chapterSlug": "vietnam",
+    "chapterName": "WIAL Vietnam",
+    "region": "Asia-Pacific",
+    "profileUrl": "https://directory.wial.org/vietnam/coaches/do-minh-loc",
+    "externalUrl": "https://directory.wial.org/vietnam/coaches/do-minh-loc",
+    "phone": "028) 62887711",
+    "email": null,
+    "website": null,
+    "about": "Public coach record imported from the WIAL directory export for Vietnam. Detailed biography and certification level need verification from source systems.",
+    "languages": [
+      "Vietnamese",
+      "English"
+    ],
+    "languageCodes": [
+      "vi",
+      "en"
+    ],
+    "certificationLevel": null,
+    "certificationLabel": "Verification needed",
+    "approvalStatus": "APPROVED",
+    "sourceType": "csv-import",
+    "searchKeywords": [
+      "Vietnam",
+      "WIAL Vietnam",
+      "Asia-Pacific",
+      "Vietnamese",
+      "English"
+    ],
+    "searchDocument": "DO MINH LOC WIAL directory coach Public coach record imported from the WIAL directory export for Vietnam. Detailed biography and certification level need verification from source systems. Vietnam WIAL Vietnam Vietnamese English Asia-Pacific",
+    "dataCompleteness": 0.6,
+    "sourceGapFlags": [
+      "missing_bio",
+      "missing_email",
+      "missing_certification_sync",
+      "missing_verified_specializations"
+    ]
+  },
+  {
+    "id": "coach-086",
+    "name": "DO NGUYEN NGOC THU",
+    "headline": "WIAL directory coach",
+    "company": null,
+    "locationText": "Ho Chi Minh, Vietnam",
+    "countrySlug": "vietnam",
+    "countryName": "Vietnam",
+    "citySlug": "ho-chi-minh",
+    "cityName": "Ho Chi Minh",
+    "chapterSlug": "vietnam",
+    "chapterName": "WIAL Vietnam",
+    "region": "Asia-Pacific",
+    "profileUrl": "https://directory.wial.org/ho-chi-minh-city/ho-chi-minh/coaches/do-nguyen-ngoc-thu",
+    "externalUrl": "https://directory.wial.org/ho-chi-minh-city/ho-chi-minh/coaches/do-nguyen-ngoc-thu",
+    "phone": null,
+    "email": null,
+    "website": null,
+    "about": "Public coach record imported from the WIAL directory export for Vietnam. Detailed biography and certification level need verification from source systems.",
+    "languages": [
+      "Vietnamese",
+      "English"
+    ],
+    "languageCodes": [
+      "vi",
+      "en"
+    ],
+    "certificationLevel": null,
+    "certificationLabel": "Verification needed",
+    "approvalStatus": "APPROVED",
+    "sourceType": "csv-import",
+    "searchKeywords": [
+      "Vietnam",
+      "WIAL Vietnam",
+      "Asia-Pacific",
+      "Vietnamese",
+      "English",
+      "Ho Chi Minh"
+    ],
+    "searchDocument": "DO NGUYEN NGOC THU WIAL directory coach Public coach record imported from the WIAL directory export for Vietnam. Detailed biography and certification level need verification from source systems. Vietnam Ho Chi Minh WIAL Vietnam Vietnamese English Asia-Pacific",
+    "dataCompleteness": 0.5,
+    "sourceGapFlags": [
+      "missing_bio",
+      "missing_phone",
+      "missing_email",
+      "missing_certification_sync",
+      "missing_verified_specializations"
+    ]
+  },
+  {
+    "id": "coach-087",
+    "name": "Do Thi Loan",
+    "headline": "WIAL directory coach",
+    "company": null,
+    "locationText": "Vietnam",
+    "countrySlug": "vietnam",
+    "countryName": "Vietnam",
+    "citySlug": null,
+    "cityName": null,
+    "chapterSlug": "vietnam",
+    "chapterName": "WIAL Vietnam",
+    "region": "Asia-Pacific",
+    "profileUrl": "https://directory.wial.org/vietnam/coaches/do-thi-loan",
+    "externalUrl": "https://directory.wial.org/vietnam/coaches/do-thi-loan",
+    "phone": null,
+    "email": null,
+    "website": null,
+    "about": "Public coach record imported from the WIAL directory export for Vietnam. Detailed biography and certification level need verification from source systems.",
+    "languages": [
+      "Vietnamese",
+      "English"
+    ],
+    "languageCodes": [
+      "vi",
+      "en"
+    ],
+    "certificationLevel": null,
+    "certificationLabel": "Verification needed",
+    "approvalStatus": "APPROVED",
+    "sourceType": "csv-import",
+    "searchKeywords": [
+      "Vietnam",
+      "WIAL Vietnam",
+      "Asia-Pacific",
+      "Vietnamese",
+      "English"
+    ],
+    "searchDocument": "Do Thi Loan WIAL directory coach Public coach record imported from the WIAL directory export for Vietnam. Detailed biography and certification level need verification from source systems. Vietnam WIAL Vietnam Vietnamese English Asia-Pacific",
+    "dataCompleteness": 0.5,
+    "sourceGapFlags": [
+      "missing_bio",
+      "missing_phone",
+      "missing_email",
+      "missing_certification_sync",
+      "missing_verified_specializations"
+    ]
+  },
+  {
+    "id": "coach-088",
+    "name": "Dolly Wu",
+    "headline": "WIAL directory coach",
+    "company": null,
+    "locationText": "China",
+    "countrySlug": "china",
+    "countryName": "China",
+    "citySlug": null,
+    "cityName": null,
+    "chapterSlug": "china",
+    "chapterName": "WIAL China",
+    "region": "Asia-Pacific",
+    "profileUrl": "https://directory.wial.org/china/coaches/dolly-wu",
+    "externalUrl": "https://directory.wial.org/china/coaches/dolly-wu",
+    "phone": null,
+    "email": null,
+    "website": null,
+    "about": "Public coach record imported from the WIAL directory export for China. Detailed biography and certification level need verification from source systems.",
+    "languages": [
+      "Mandarin",
+      "English"
+    ],
+    "languageCodes": [
+      "zh",
+      "en"
+    ],
+    "certificationLevel": null,
+    "certificationLabel": "Verification needed",
+    "approvalStatus": "APPROVED",
+    "sourceType": "csv-import",
+    "searchKeywords": [
+      "China",
+      "WIAL China",
+      "Asia-Pacific",
+      "Mandarin",
+      "English"
+    ],
+    "searchDocument": "Dolly Wu WIAL directory coach Public coach record imported from the WIAL directory export for China. Detailed biography and certification level need verification from source systems. China WIAL China Mandarin English Asia-Pacific",
+    "dataCompleteness": 0.5,
+    "sourceGapFlags": [
+      "missing_bio",
+      "missing_phone",
+      "missing_email",
+      "missing_certification_sync",
+      "missing_verified_specializations"
+    ]
+  },
+  {
+    "id": "coach-089",
+    "name": "Dominika Pupkowska-Bral",
+    "headline": "WIAL directory coach",
+    "company": null,
+    "locationText": "Poznań, Poland",
+    "countrySlug": "poland",
+    "countryName": "Poland",
+    "citySlug": "poznań",
+    "cityName": "Poznań",
+    "chapterSlug": "poland",
+    "chapterName": "WIAL Poland",
+    "region": "Europe",
+    "profileUrl": "https://directory.wial.org/poland/poznań/coaches/dominika-pupkowska-bral",
+    "externalUrl": "https://directory.wial.org/poland/poznań/coaches/dominika-pupkowska-bral",
+    "phone": null,
+    "email": null,
+    "website": null,
+    "about": "Public coach record imported from the WIAL directory export for Poland. Detailed biography and certification level need verification from source systems.",
+    "languages": [
+      "Polish",
+      "English"
+    ],
+    "languageCodes": [
+      "pl",
+      "en"
+    ],
+    "certificationLevel": null,
+    "certificationLabel": "Verification needed",
+    "approvalStatus": "APPROVED",
+    "sourceType": "csv-import",
+    "searchKeywords": [
+      "Poland",
+      "WIAL Poland",
+      "Europe",
+      "Polish",
+      "English",
+      "Poznań"
+    ],
+    "searchDocument": "Dominika Pupkowska-Bral WIAL directory coach Public coach record imported from the WIAL directory export for Poland. Detailed biography and certification level need verification from source systems. Poland Poznań WIAL Poland Polish English Europe",
+    "dataCompleteness": 0.5,
+    "sourceGapFlags": [
+      "missing_bio",
+      "missing_phone",
+      "missing_email",
+      "missing_certification_sync",
+      "missing_verified_specializations"
+    ]
+  },
+  {
+    "id": "coach-090",
+    "name": "Don Chan",
+    "headline": "WIAL directory coach",
+    "company": null,
+    "locationText": "Uninted, Hong Kong",
+    "countrySlug": "hong-kong",
+    "countryName": "Hong Kong",
+    "citySlug": "uninted",
+    "cityName": "Uninted",
+    "chapterSlug": "hong-kong",
+    "chapterName": "WIAL Hong Kong",
+    "region": "Asia-Pacific",
+    "profileUrl": "https://directory.wial.org/hong-kong/uninted/coaches/don-chan",
+    "externalUrl": "https://directory.wial.org/hong-kong/uninted/coaches/don-chan",
+    "phone": null,
+    "email": null,
+    "website": null,
+    "about": "Public coach record imported from the WIAL directory export for Hong Kong. Detailed biography and certification level need verification from source systems.",
+    "languages": [
+      "Cantonese",
+      "English"
+    ],
+    "languageCodes": [
+      "yue",
+      "en"
+    ],
+    "certificationLevel": null,
+    "certificationLabel": "Verification needed",
+    "approvalStatus": "APPROVED",
+    "sourceType": "csv-import",
+    "searchKeywords": [
+      "Hong Kong",
+      "WIAL Hong Kong",
+      "Asia-Pacific",
+      "Cantonese",
+      "English",
+      "Uninted"
+    ],
+    "searchDocument": "Don Chan WIAL directory coach Public coach record imported from the WIAL directory export for Hong Kong. Detailed biography and certification level need verification from source systems. Hong Kong Uninted WIAL Hong Kong Cantonese English Asia-Pacific",
+    "dataCompleteness": 0.5,
+    "sourceGapFlags": [
+      "missing_bio",
+      "missing_phone",
+      "missing_email",
+      "missing_certification_sync",
+      "missing_verified_specializations"
+    ]
+  },
+  {
+    "id": "coach-091",
+    "name": "Dorothy Tsui",
+    "headline": "WIAL directory coach",
+    "company": null,
+    "locationText": "London, Hong Kong",
+    "countrySlug": "hong-kong",
+    "countryName": "Hong Kong",
+    "citySlug": "london",
+    "cityName": "London",
+    "chapterSlug": "hong-kong",
+    "chapterName": "WIAL Hong Kong",
+    "region": "Asia-Pacific",
+    "profileUrl": "https://directory.wial.org/hong-kong/london/coaches/dorothy-tsui",
+    "externalUrl": "https://directory.wial.org/hong-kong/london/coaches/dorothy-tsui",
+    "phone": null,
+    "email": "hello@dorothytsui.com",
+    "website": null,
+    "about": "Public coach record imported from the WIAL directory export for Hong Kong. Detailed biography and certification level need verification from source systems.",
+    "languages": [
+      "Cantonese",
+      "English"
+    ],
+    "languageCodes": [
+      "yue",
+      "en"
+    ],
+    "certificationLevel": null,
+    "certificationLabel": "Verification needed",
+    "approvalStatus": "APPROVED",
+    "sourceType": "csv-import",
+    "searchKeywords": [
+      "Hong Kong",
+      "WIAL Hong Kong",
+      "Asia-Pacific",
+      "Cantonese",
+      "English",
+      "London"
+    ],
+    "searchDocument": "Dorothy Tsui WIAL directory coach Public coach record imported from the WIAL directory export for Hong Kong. Detailed biography and certification level need verification from source systems. Hong Kong London WIAL Hong Kong Cantonese English Asia-Pacific",
+    "dataCompleteness": 0.6,
+    "sourceGapFlags": [
+      "missing_bio",
+      "missing_phone",
+      "missing_certification_sync",
+      "missing_verified_specializations"
+    ]
+  },
+  {
+    "id": "coach-092",
+    "name": "Dr. Suthasinee Watmanee",
+    "headline": "WIAL directory coach",
+    "company": null,
+    "locationText": "Thailand",
+    "countrySlug": "thailand",
+    "countryName": "Thailand",
+    "citySlug": null,
+    "cityName": null,
+    "chapterSlug": "thailand",
+    "chapterName": "WIAL Thailand",
+    "region": "Asia-Pacific",
+    "profileUrl": "https://directory.wial.org/thailand/coaches/dr-suthasinee-watmanee",
+    "externalUrl": "https://directory.wial.org/thailand/coaches/dr-suthasinee-watmanee",
+    "phone": null,
+    "email": null,
+    "website": null,
+    "about": "Public coach record imported from the WIAL directory export for Thailand. Detailed biography and certification level need verification from source systems.",
+    "languages": [
+      "Thai",
+      "English"
+    ],
+    "languageCodes": [
+      "th",
+      "en"
+    ],
+    "certificationLevel": null,
+    "certificationLabel": "Verification needed",
+    "approvalStatus": "APPROVED",
+    "sourceType": "csv-import",
+    "searchKeywords": [
+      "Thailand",
+      "WIAL Thailand",
+      "Asia-Pacific",
+      "Thai",
+      "English"
+    ],
+    "searchDocument": "Dr. Suthasinee Watmanee WIAL directory coach Public coach record imported from the WIAL directory export for Thailand. Detailed biography and certification level need verification from source systems. Thailand WIAL Thailand Thai English Asia-Pacific",
+    "dataCompleteness": 0.5,
+    "sourceGapFlags": [
+      "missing_bio",
+      "missing_phone",
+      "missing_email",
+      "missing_certification_sync",
+      "missing_verified_specializations"
+    ]
+  },
+  {
+    "id": "coach-093",
+    "name": "Dr. Wanwitoo Wanmolee",
+    "headline": "WIAL directory coach",
+    "company": null,
+    "locationText": "Thailand",
+    "countrySlug": "thailand",
+    "countryName": "Thailand",
+    "citySlug": null,
+    "cityName": null,
+    "chapterSlug": "thailand",
+    "chapterName": "WIAL Thailand",
+    "region": "Asia-Pacific",
+    "profileUrl": "https://directory.wial.org/thailand/coaches/dr-wanwitoo-wanmolee",
+    "externalUrl": "https://directory.wial.org/thailand/coaches/dr-wanwitoo-wanmolee",
+    "phone": null,
+    "email": null,
+    "website": null,
+    "about": "Public coach record imported from the WIAL directory export for Thailand. Detailed biography and certification level need verification from source systems.",
+    "languages": [
+      "Thai",
+      "English"
+    ],
+    "languageCodes": [
+      "th",
+      "en"
+    ],
+    "certificationLevel": null,
+    "certificationLabel": "Verification needed",
+    "approvalStatus": "APPROVED",
+    "sourceType": "csv-import",
+    "searchKeywords": [
+      "Thailand",
+      "WIAL Thailand",
+      "Asia-Pacific",
+      "Thai",
+      "English"
+    ],
+    "searchDocument": "Dr. Wanwitoo Wanmolee WIAL directory coach Public coach record imported from the WIAL directory export for Thailand. Detailed biography and certification level need verification from source systems. Thailand WIAL Thailand Thai English Asia-Pacific",
+    "dataCompleteness": 0.5,
+    "sourceGapFlags": [
+      "missing_bio",
+      "missing_phone",
+      "missing_email",
+      "missing_certification_sync",
+      "missing_verified_specializations"
+    ]
+  },
+  {
+    "id": "coach-094",
+    "name": "Edmund Lim",
+    "headline": "WIAL directory coach",
+    "company": null,
+    "locationText": "Malaysia",
+    "countrySlug": "malaysia",
+    "countryName": "Malaysia",
+    "citySlug": null,
+    "cityName": null,
+    "chapterSlug": "malaysia",
+    "chapterName": "WIAL Malaysia",
+    "region": "Asia-Pacific",
+    "profileUrl": "https://directory.wial.org/malaysia/coaches/edmund-lim",
+    "externalUrl": "https://directory.wial.org/malaysia/coaches/edmund-lim",
+    "phone": null,
+    "email": null,
+    "website": null,
+    "about": "Public coach record imported from the WIAL directory export for Malaysia. Detailed biography and certification level need verification from source systems.",
+    "languages": [
+      "Malay",
+      "English"
+    ],
+    "languageCodes": [
+      "ms",
+      "en"
+    ],
+    "certificationLevel": null,
+    "certificationLabel": "Verification needed",
+    "approvalStatus": "APPROVED",
+    "sourceType": "csv-import",
+    "searchKeywords": [
+      "Malaysia",
+      "WIAL Malaysia",
+      "Asia-Pacific",
+      "Malay",
+      "English"
+    ],
+    "searchDocument": "Edmund Lim WIAL directory coach Public coach record imported from the WIAL directory export for Malaysia. Detailed biography and certification level need verification from source systems. Malaysia WIAL Malaysia Malay English Asia-Pacific",
+    "dataCompleteness": 0.5,
+    "sourceGapFlags": [
+      "missing_bio",
+      "missing_phone",
+      "missing_email",
+      "missing_certification_sync",
+      "missing_verified_specializations"
+    ]
+  },
+  {
+    "id": "coach-095",
+    "name": "Edna Liong",
+    "headline": "WIAL directory coach",
+    "company": null,
+    "locationText": "Singapore, Singapore",
+    "countrySlug": "singapore",
+    "countryName": "Singapore",
+    "citySlug": "singapore",
+    "cityName": "Singapore",
+    "chapterSlug": "singapore",
+    "chapterName": "WIAL Singapore",
+    "region": "Asia-Pacific",
+    "profileUrl": "https://directory.wial.org/singapore/singapore/coaches/edna-liong",
+    "externalUrl": "https://directory.wial.org/singapore/singapore/coaches/edna-liong",
+    "phone": "+6591002990",
+    "email": null,
+    "website": null,
+    "about": "Public coach record imported from the WIAL directory export for Singapore. Detailed biography and certification level need verification from source systems.",
+    "languages": [
+      "English",
+      "Mandarin"
+    ],
+    "languageCodes": [
+      "en",
+      "zh"
+    ],
+    "certificationLevel": null,
+    "certificationLabel": "Verification needed",
+    "approvalStatus": "APPROVED",
+    "sourceType": "csv-import",
+    "searchKeywords": [
+      "Singapore",
+      "WIAL Singapore",
+      "Asia-Pacific",
+      "English",
+      "Mandarin",
+      "Singapore"
+    ],
+    "searchDocument": "Edna Liong WIAL directory coach Public coach record imported from the WIAL directory export for Singapore. Detailed biography and certification level need verification from source systems. Singapore Singapore WIAL Singapore English Mandarin Asia-Pacific",
+    "dataCompleteness": 0.6,
+    "sourceGapFlags": [
+      "missing_bio",
+      "missing_email",
+      "missing_certification_sync",
+      "missing_verified_specializations"
+    ]
+  },
+  {
+    "id": "coach-096",
+    "name": "Eduardo Ferrari Longo",
+    "headline": "WIAL directory coach",
+    "company": null,
+    "locationText": "United Kingdom",
+    "countrySlug": "united-kingdom",
+    "countryName": "United Kingdom",
+    "citySlug": null,
+    "cityName": null,
+    "chapterSlug": "united-kingdom",
+    "chapterName": "WIAL United Kingdom",
+    "region": "Europe",
+    "profileUrl": "https://directory.wial.org/united-kingdom/coaches/eduardo-ferrari-longo",
+    "externalUrl": "https://directory.wial.org/united-kingdom/coaches/eduardo-ferrari-longo",
+    "phone": null,
+    "email": null,
+    "website": null,
+    "about": "Public coach record imported from the WIAL directory export for United Kingdom. Detailed biography and certification level need verification from source systems.",
+    "languages": [
+      "English"
+    ],
+    "languageCodes": [
+      "en"
+    ],
+    "certificationLevel": null,
+    "certificationLabel": "Verification needed",
+    "approvalStatus": "APPROVED",
+    "sourceType": "csv-import",
+    "searchKeywords": [
+      "United Kingdom",
+      "WIAL United Kingdom",
+      "Europe",
+      "English"
+    ],
+    "searchDocument": "Eduardo Ferrari Longo WIAL directory coach Public coach record imported from the WIAL directory export for United Kingdom. Detailed biography and certification level need verification from source systems. United Kingdom WIAL United Kingdom English Europe",
+    "dataCompleteness": 0.5,
+    "sourceGapFlags": [
+      "missing_bio",
+      "missing_phone",
+      "missing_email",
+      "missing_certification_sync",
+      "missing_verified_specializations"
+    ]
+  },
+  {
+    "id": "coach-097",
+    "name": "Edward Huang",
+    "headline": "WIAL directory coach",
+    "company": null,
+    "locationText": "Malaysia",
+    "countrySlug": "malaysia",
+    "countryName": "Malaysia",
+    "citySlug": null,
+    "cityName": null,
+    "chapterSlug": "malaysia",
+    "chapterName": "WIAL Malaysia",
+    "region": "Asia-Pacific",
+    "profileUrl": "https://directory.wial.org/malaysia/coaches/edward-huang",
+    "externalUrl": "https://directory.wial.org/malaysia/coaches/edward-huang",
+    "phone": null,
+    "email": null,
+    "website": null,
+    "about": "Public coach record imported from the WIAL directory export for Malaysia. Detailed biography and certification level need verification from source systems.",
+    "languages": [
+      "Malay",
+      "English"
+    ],
+    "languageCodes": [
+      "ms",
+      "en"
+    ],
+    "certificationLevel": null,
+    "certificationLabel": "Verification needed",
+    "approvalStatus": "APPROVED",
+    "sourceType": "csv-import",
+    "searchKeywords": [
+      "Malaysia",
+      "WIAL Malaysia",
+      "Asia-Pacific",
+      "Malay",
+      "English"
+    ],
+    "searchDocument": "Edward Huang WIAL directory coach Public coach record imported from the WIAL directory export for Malaysia. Detailed biography and certification level need verification from source systems. Malaysia WIAL Malaysia Malay English Asia-Pacific",
+    "dataCompleteness": 0.5,
+    "sourceGapFlags": [
+      "missing_bio",
+      "missing_phone",
+      "missing_email",
+      "missing_certification_sync",
+      "missing_verified_specializations"
+    ]
+  },
+  {
+    "id": "coach-098",
+    "name": "Edwin Sim",
+    "headline": "WIAL directory coach",
+    "company": null,
+    "locationText": "Singapore, Singapore",
+    "countrySlug": "singapore",
+    "countryName": "Singapore",
+    "citySlug": "singapore",
+    "cityName": "Singapore",
+    "chapterSlug": "singapore",
+    "chapterName": "WIAL Singapore",
+    "region": "Asia-Pacific",
+    "profileUrl": "https://directory.wial.org/singapore/singapore/coaches/edwin-sim",
+    "externalUrl": "https://directory.wial.org/singapore/singapore/coaches/edwin-sim",
+    "phone": "+65 90660900",
+    "email": null,
+    "website": null,
+    "about": "Public coach record imported from the WIAL directory export for Singapore. Detailed biography and certification level need verification from source systems.",
+    "languages": [
+      "English",
+      "Mandarin"
+    ],
+    "languageCodes": [
+      "en",
+      "zh"
+    ],
+    "certificationLevel": null,
+    "certificationLabel": "Verification needed",
+    "approvalStatus": "APPROVED",
+    "sourceType": "csv-import",
+    "searchKeywords": [
+      "Singapore",
+      "WIAL Singapore",
+      "Asia-Pacific",
+      "English",
+      "Mandarin",
+      "Singapore"
+    ],
+    "searchDocument": "Edwin Sim WIAL directory coach Public coach record imported from the WIAL directory export for Singapore. Detailed biography and certification level need verification from source systems. Singapore Singapore WIAL Singapore English Mandarin Asia-Pacific",
+    "dataCompleteness": 0.6,
+    "sourceGapFlags": [
+      "missing_bio",
+      "missing_email",
+      "missing_certification_sync",
+      "missing_verified_specializations"
+    ]
+  },
+  {
+    "id": "coach-099",
+    "name": "Edyta Michalak",
+    "headline": "WIAL directory coach",
+    "company": null,
+    "locationText": "Poland",
+    "countrySlug": "poland",
+    "countryName": "Poland",
+    "citySlug": null,
+    "cityName": null,
+    "chapterSlug": "poland",
+    "chapterName": "WIAL Poland",
+    "region": "Europe",
+    "profileUrl": "https://directory.wial.org/poland/coaches/edyta-michalak",
+    "externalUrl": "https://directory.wial.org/poland/coaches/edyta-michalak",
+    "phone": null,
+    "email": null,
+    "website": null,
+    "about": "Public coach record imported from the WIAL directory export for Poland. Detailed biography and certification level need verification from source systems.",
+    "languages": [
+      "Polish",
+      "English"
+    ],
+    "languageCodes": [
+      "pl",
+      "en"
+    ],
+    "certificationLevel": null,
+    "certificationLabel": "Verification needed",
+    "approvalStatus": "APPROVED",
+    "sourceType": "csv-import",
+    "searchKeywords": [
+      "Poland",
+      "WIAL Poland",
+      "Europe",
+      "Polish",
+      "English"
+    ],
+    "searchDocument": "Edyta Michalak WIAL directory coach Public coach record imported from the WIAL directory export for Poland. Detailed biography and certification level need verification from source systems. Poland WIAL Poland Polish English Europe",
+    "dataCompleteness": 0.5,
+    "sourceGapFlags": [
+      "missing_bio",
+      "missing_phone",
+      "missing_email",
+      "missing_certification_sync",
+      "missing_verified_specializations"
+    ]
+  },
+  {
+    "id": "coach-100",
+    "name": "Elaine Palmer",
+    "headline": "WIAL directory coach",
+    "company": null,
+    "locationText": "Brazil",
+    "countrySlug": "brazil",
+    "countryName": "Brazil",
+    "citySlug": null,
+    "cityName": null,
+    "chapterSlug": "brazil",
+    "chapterName": "WIAL Brazil",
+    "region": "South America",
+    "profileUrl": "https://directory.wial.org/brazil/coaches/elaine-palmer",
+    "externalUrl": "https://directory.wial.org/brazil/coaches/elaine-palmer",
+    "phone": null,
+    "email": null,
+    "website": null,
+    "about": "Public coach record imported from the WIAL directory export for Brazil. Detailed biography and certification level need verification from source systems.",
+    "languages": [
+      "Portuguese"
+    ],
+    "languageCodes": [
+      "pt"
+    ],
+    "certificationLevel": null,
+    "certificationLabel": "Verification needed",
+    "approvalStatus": "APPROVED",
+    "sourceType": "csv-import",
+    "searchKeywords": [
+      "Brazil",
+      "WIAL Brazil",
+      "South America",
+      "Portuguese"
+    ],
+    "searchDocument": "Elaine Palmer WIAL directory coach Public coach record imported from the WIAL directory export for Brazil. Detailed biography and certification level need verification from source systems. Brazil WIAL Brazil Portuguese South America",
+    "dataCompleteness": 0.5,
+    "sourceGapFlags": [
+      "missing_bio",
+      "missing_phone",
+      "missing_email",
+      "missing_certification_sync",
+      "missing_verified_specializations"
+    ]
+  }
+]
